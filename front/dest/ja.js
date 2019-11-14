@@ -77,8 +77,7 @@ let langData = {
     "regist.step1.modal_jobfitness.header": "職務適合度表示設定",
     "regist.step1.modal_jobfitness.guide": "※ 職種／職務適合度結果に表示される職務を選択してください。（職種別最大４つまで選択可能）",
     "regist.step1.modal_renamefacts.header": "コンピテンシー名変更細部設定",
-    "regist.step1.modal_renamefacts.guide":
-        "以下のコンピテンシー名と定義を確認し、変更しようとするコンピテンシー名は右の空欄に作成してください。(12 byte 以内)",
+    "regist.step1.modal_renamefacts.guide":"以下のコンピテンシー名と定義を確認し、変更しようとするコンピテンシー名は右の空欄に作成してください。(12 byte 以内)",
     "regist.step1.modal_renamefacts.guide2": "変更のいらないコンピテンシーは空欄のままにしてください。",
     "regist.step1.alert.uncomplete": "登録が完了していません。このままページから離れると、設定が保存されません。終了しますか？",
     "regist.step1.alert.save_complete": "保存されました。",
