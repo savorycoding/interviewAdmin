@@ -1,5 +1,4 @@
-(function(){
-  window.langData = {
+var langData = {
   "header.label.home": "ホームへ",
   "header.label.exam_site": "受検者サイト",
   "header.label.greets": "000様 ようこそ",
@@ -1816,4 +1815,8 @@
   "privacypolicy.write.alert.name_it": "名称を入力してください。",
   "privacypolicy.write.alert.save": "保存しました。"
   };
-})()
+};
+
+define([], function () {
+	return langData;
+});
