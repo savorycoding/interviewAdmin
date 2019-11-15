@@ -1,4 +1,5 @@
-var langData = {
+(function(){
+  var langData = {
   "header.label.home": "ホームへ",
   "header.label.exam_site": "受検者サイト",
   "header.label.greets": "000様 ようこそ",
@@ -1814,4 +1815,5 @@ var langData = {
   "privacypolicy.list.alert.confrim_remove": "削除しますか？",
   "privacypolicy.write.alert.name_it": "名称を入力してください。",
   "privacypolicy.write.alert.save": "保存しました。"
-};
+  };
+})()
