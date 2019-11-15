@@ -1,5 +1,5 @@
 (function(){
-  var langData = {
+  window.langData = {
   "header.label.home": "ホームへ",
   "header.label.exam_site": "受検者サイト",
   "header.label.greets": "000様 ようこそ",
