@@ -1815,7 +1815,3 @@ var langData = {
   "privacypolicy.write.alert.name_it": "名称を入力してください。",
   "privacypolicy.write.alert.save": "保存しました。"
 };
-
-define([], function () {
-	return langData;
-});
