@@ -670,7 +670,7 @@ let langData = {
   "result.label.total_count": "총 <strong class=\"number\">{0}</strong>명",
   "result.label.count": "명",
   "result.alert.delete.empty_examinee": "삭제할 응시자를 선택하세요.",
-  "result.alert.delete.cannot_restore": "삭제 된 데이터는 복구가 불가능합니다.\\n<br> 정말 삭제하시겠습니까?",
+  "result.alert.delete.cannot_restore": "삭제 된 데이터는 복구가 불가능합니다.\n<br> 정말 삭제하시겠습니까?",
   "result.alert.delete.success": "선택한 응시자를 삭제하였습니다.",
   "result.alert.reset.confirm": "선택하신 응시자의 응시현황을 초기화하시겠습니까?",
   "result.alert.reset.complete": "선택하신 응시자의 응시현황을 초기화하였습니다.",
