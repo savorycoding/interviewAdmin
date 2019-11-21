@@ -1,7 +1,7 @@
 let langData = {
     "header.label.home": "ホーム",
     "header.label.exam_site": "受検者サイト",
-    "header.label.greets": "こんにちは、〇〇さん",
+    "header.label.greets": "000様 ようこそ",
     "header.button.remain": "延長",
     "header.button.logout": "ログアウト",
     "header.alert.logout": "ログアウトしますか?",
