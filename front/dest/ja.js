@@ -109,7 +109,7 @@
   "regist.step2.label3": "総",
   "regist.step2.label4": "名",
   "regist.step2.button.download": "書式ダウンロード",
-  "regist.step2.alert.download": "フォームダウンロードを完了しました。",
+  "regist.step2.alert.download": "書式のダウンロードを完了しました。",
   "regist.step2.alert.download2": "フォームダウンロードに失敗しました。もう一度やり直してください。",
   "regist.step2.button.upload": "Excelアップロード",
   "regist.step2.alert.upload": "保有ポイントが不足しています。受検者を追加するためには、ポイントを購入してください。",
