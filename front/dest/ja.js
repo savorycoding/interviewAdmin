@@ -183,7 +183,7 @@
   "regist.step3.modal_load.button.cancel": "キャンセル",
   "regist.step3.modal_load.alert.load": "以前の設定を読み込みますか？",
   "regist.step3.question.header": "質問構成",
-  "regist.step3.question.guide": "質問は以下のプロセスで提示されます。",
+  "regist.step3.question.guide": "質問は次と同様な順番で提示されます。",
   "regist.step3.question.label.common": "基本質問",
   "regist.step3.question.label.situation": "状況対処",
   "regist.step3.question.label.struct": "深層対話",
