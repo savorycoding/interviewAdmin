@@ -210,7 +210,7 @@
   "regist.step3.modal_question.label2": "秒",
   "regist.step3.modal_question.label3": "回答時間",
   "regist.step3.modal_question.label4": "秒",
-  "regist.step3.modal_question.button.save": "確認",
+  "regist.step3.modal_question.button.save": "保存",
   "regist.step3.modal_question.button.reset": "リセット",
   "regist.step3.modal_question.button.cancle": "キャンセル",
   "regist.step3.modal_question.alert.contents": "質問内容を入力してください。",
