@@ -195,7 +195,7 @@
   "regist.step3.question.th.situation": "状況対処(状況質問)",
   "regist.step3.question.guide.situation": "様々な状況に対する質問を提示し、受検者は実際に対応するように答えます。(2個の質問)",
   "regist.step3.question.th.struct": "深層対話(深層構造化質問)",
-  "regist.step3.question.guide.struct": "受検者の反応特性を分析した結果に基づいて、構造化質問が提示されます。",
+  "regist.step3.question.guide.struct": "受検者の反応特性を分析した結果を基に深層構造化質問が提示されます。",
   "regist.step3.question.th.custom": "カスタマイズ質問",
   "regist.step3.question.label.custom2": "適用しない",
   "regist.step3.question.label.custom3": "一括適用",
