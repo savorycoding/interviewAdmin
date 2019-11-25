@@ -1,6 +1,5 @@
 ﻿let langData = {
   "header.label.home": "ホームへ",
-  "header.label.bobo": "보보",
   "header.label.exam_site": "受検者サイト",
   "header.label.greets": "000様 ようこそ",
   "header.button.remain": "延長",
