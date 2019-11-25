@@ -155,7 +155,7 @@
   "regist.step2.modal_modify.alert.email": "電子メールを入力してください。",
   "regist.step2.modal_modify.alert.email2": "電子メールを正しく入力してください。",
   "regist.step2.modal_modify.alert.phone": "携帯電話番号を入力してください。",
-  "regist.step2.modal_modify.alert.birthday": "生年月日をYYYMMDDフォーマットに入力してください。",
+  "regist.step2.modal_modify.alert.birthday": "生年月日をYYYMMDDの形式で入力してください。",
   "regist.step2.modal_modify.alert.birthday2": "生年月日を1月から12月の間に入力してください。",
   "regist.step2.modal_modify.alert.birthday3": "生年月日を1日から31日の間に入力してください。",
   "regist.step2.modal_modify.alert.phone2": "携帯電話番号は010-0000-0000フォームに合わせて入力してください。",
