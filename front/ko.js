@@ -1,8 +1,6 @@
 let langData = {
   "header.label.home": "홈으로",
-  "header.label.home2": "홈으로 ",
-  "header.label.home3": "홈으로 3",
-  "header.label.home3": "홈으로 4",
+  "header.label.hohoho": "호호호호",
   "header.label.exam_site": "응시자사이트",
   "header.label.greets": "000님 환영합니다.",
   "header.button.remain": "연장",
