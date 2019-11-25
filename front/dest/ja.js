@@ -21,7 +21,7 @@
   "dashboard.label.active": "進行中",
   "dashboard.label.closed": "締め切り",
   "dashboard.label.empty": "２ヶ月以内に登録した検査がありません。",
-  "dashboard.label.step1": "選考設定",
+  "dashboard.label.step1": "検査設定",
   "dashboard.label.step2": "受検者設定",
   "dashboard.label.step3": "質問設定",
   "dashboard.label.step4": "結果表設定",
