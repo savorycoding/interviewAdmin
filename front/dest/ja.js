@@ -171,7 +171,7 @@
   "regist.step3.header2": "登録",
   "regist.step3.guide1": "基本質問、状況対処、深層会話、カスタマイズ質問の構成を確認できます。",
   "regist.step3.guide2": "カスタマイズ質問設定で質問の追加ができます。",
-  "regist.step3.guide3": "以前の選考で使用した質問設定を読み込んで使用できます。",
+  "regist.step3.guide3": "以前の検査で使用した質問設定を読み込めます。",
   "regist.step3.button.load": "以前の設定を読み込む",
   "regist.step3.modal_load.header": "前の設定を読み込む",
   "regist.step3.modal_load.th.name": "選考名",
