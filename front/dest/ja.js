@@ -225,7 +225,7 @@
   "regist.step3.modal_question_jobgroup.button.save": "保存",
   "regist.step3.modal_question_jobgroup.button.reset": "リセット",
   "regist.step3.modal_question_jobgroup.button.cancel": "キャンセル",
-  "regist.step3.modal_question_jobgroup.alert.empty": "質問の内容を入力してください。",
+  "regist.step3.modal_question_jobgroup.alert.empty": "質問内容を入力してください。",
   "regist.step3.modal_time.th.category": "区分",
   "regist.step3.modal_time.th.game": "脳神経科学ゲーム",
   "regist.step3.modal_time.th.qna": "質疑応答",
