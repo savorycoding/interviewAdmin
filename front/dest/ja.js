@@ -335,7 +335,7 @@
   "regist.step5.mail.header": "案内メール",
   "regist.step5.mail.button.recommand_format": "推薦書式を見る",
   "regist.step5.modal_recommand.header": "推薦書式",
-  "regist.step5.modal_recommand.content[0]": "約６０分",
+  "regist.step5.modal_recommand.content[0]": "オンライン面接受検に関する案内を申し上げます。",
   "regist.step5.modal_recommand.content[1]": "案内事項",
   "regist.step5.modal_recommand.content[2]": "内容",
   "regist.step5.modal_recommand.content[3]": "区分",
