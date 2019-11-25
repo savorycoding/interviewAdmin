@@ -228,7 +228,7 @@
   "regist.step3.modal_question_jobgroup.alert.empty": "質問内容を入力してください。",
   "regist.step3.modal_time.th.category": "区分",
   "regist.step3.modal_time.th.game": "脳神経科学ゲーム",
-  "regist.step3.modal_time.th.qna": "質疑応答",
+  "regist.step3.modal_time.th.qna": "質疑回答",
   "regist.step3.modal_time.th.sum": "合計",
   "regist.step3.modal_time.label.minute": "分",
   "regist.step3.modal_time.button.close": "閉じる",
