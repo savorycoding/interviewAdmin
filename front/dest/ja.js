@@ -5,7 +5,7 @@
   "header.button.remain": "延長",
   "header.button.logout": "ログアウト",
   "header.alert.logout": "ログアウトしますか?",
-  "dashboard.header1": "AIコンピテンシー検査受検現況",
+  "dashboard.header1": "AIコンピテンシー検査の受検現況",
   "dashboard.th.exam_name": "検査名",
   "dashboard.th.status": "進行状況",
   "dashboard.th.period": "受検期間",
