@@ -29,7 +29,7 @@
   "regist.step1.header1": "AIコンピテンシー検査管理",
   "regist.step1.header2": "登録",
   "regist.step1.basic.header": "基本設定",
-  "regist.step1.basic.th.exam_name": "選考名",
+  "regist.step1.basic.th.exam_name": "検査名",
   "regist.step1.basic.th.examinee": "受検者",
   "regist.step1.basic.label.at": "応募者",
   "regist.step1.label.applicant": "応募",
