@@ -79,7 +79,7 @@
   "regist.step1.modal_renamefacts.header": "コンピテンシー名変更の細部設定",
   "regist.step1.modal_renamefacts.guide": "以下のコンピテンシー名と定義を確認し、変更しようとするコンピテンシー名を右の空欄に作成してください。(12 byte 以内)",
   "regist.step1.modal_renamefacts.guide2": "変更のいらないコンピテンシー名は空欄にしてください。",
-  "regist.step1.alert.uncomplete": "登録が完了していません。このままページから離れると、設定が保存されません。終了しますか？",
+  "regist.step1.alert.uncomplete": "登録が完了されていません。ページを離れると、設定は保存されません。終了しますか？",
   "regist.step1.alert.save_complete": "保存されました。",
   "regist.step1.basic.label.question_selected": "個の質問設定済み",
   "regist.step1.result.guide.msg1": "※変更された設定は、結果表を印刷する時にも同様に適用されま。",
