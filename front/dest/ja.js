@@ -95,7 +95,7 @@
   "regist.step2.header": "AIコンピテンシー検査管理",
   "regist.step2.header2": "登録",
   "regist.step2.guide.fail_load": "情報の読み込みに失敗しました。もう一度やり直してください。",
-  "regist.step2.label": "オンラインAI面接の登録可能人員",
+  "regist.step2.label": "オンラインAI検査の登録可能人員",
   "regist.step2.label2": "名",
   "regist.step2.button.delete": "受検者削除",
   "regist.step2.alert.delete": "削除する受検者を選択してください。",
