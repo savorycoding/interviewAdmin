@@ -26,7 +26,7 @@
   "dashboard.label.step3": "質問設定",
   "dashboard.label.step4": "結果表設定",
   "dashboard.label.step5": "案内メール設定",
-  "regist.step1.header1": "AI面接管理",
+  "regist.step1.header1": "AIコンピテンシー検査管理",
   "regist.step1.header2": "登録",
   "regist.step1.basic.header": "基本設定",
   "regist.step1.basic.th.exam_name": "選考名",
