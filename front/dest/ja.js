@@ -57,7 +57,7 @@
   "regist.step1.ai.line.closing_remarks2": "長い時間割いていただき、誠にありがとうございます。良い結果を心よりお祈り申し上げます。",
   "regist.step1.ai.th.external_link": "外部ページのリンク設定",
   "regist.step1.ai.guide.external_link": "※受検終了後、外部サイトへの接続が必要な場合",
-  "regist.step1.ai.guide.external_link2": "リンクテキスト入力",
+  "regist.step1.ai.guide.external_link2": "リンクのテキスト入力",
   "regist.step1.ai.guide.external_link3": "URL入力",
   "regist.step1.result.header": "カスタマイズ設定",
   "regist.step1.result.th.customizing": "カスタマイズ",
