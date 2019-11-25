@@ -255,7 +255,7 @@
   "regist.step4.result.button.display_yn": "設定",
   "regist.step4.result.guide.display_yn": "※変更された設定は、結果表を印刷する時にも同様に適用されます。",
   "regist.step4.modal_display_yn.header": "結果表の表示設定",
-  "regist.step4.modal_display_yn.guide": "結果表でブラインド処理しようとする項目をOFF処理し、該当する項目を除外して結果表が出力されます。",
+  "regist.step4.modal_display_yn.guide": "結果表でブラインドしようとする項目をOFFにすると、該当の項目を除いた結果表が出力されます。",
   "regist.step4.modal_display_yn.button.preview": "結果表の事前閲覧",
   "regist.step4.modal_display_yn.button.page1": "総合結果表1",
   "regist.step4.modal_display_yn.button.page2": "総合結果表2",
