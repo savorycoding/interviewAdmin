@@ -66,7 +66,7 @@
   "regist.step1.result.label.all_null": "選択しない",
   "regist.step1.result.label.job_group": "職種別の選択適用",
   "regist.step1.result.job_group_null": "選択しない",
-  "regist.step1.result.th.display_yn": "結果表表示設定",
+  "regist.step1.result.th.display_yn": "結果表の表示設定",
   "regist.step1.result.guide.display_yn": "結果表でカスタマイズ設定表示",
   "regist.step1.button.next": "次へ",
   "regist.step1.alert.save": "設定を保存しますか?",
