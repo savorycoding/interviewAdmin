@@ -260,7 +260,7 @@
   "regist.step4.modal_display_yn.button.page1": "総合結果表1",
   "regist.step4.modal_display_yn.button.page2": "総合結果表2",
   "regist.step4.modal_display_yn.button.page3": "総合結果表3",
-  "regist.step4.modal_display_yn.button.page4": "面接質問ガイド",
+  "regist.step4.modal_display_yn.button.page4": "コンピテンシー検査質問ガイド",
   "regist.step4.modal_display_yn.header2": "基本情報",
   "regist.step4.modal_display_yn.label.name": "名前",
   "regist.step4.modal_display_yn.label.photo": "AI面接写真",
