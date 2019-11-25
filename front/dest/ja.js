@@ -218,7 +218,7 @@
   "regist.step3.modal_question_jobgroup.guide1": "職群別に最大5つの質問を登録することができます。",
   "regist.step3.modal_question_jobgroup.th.content": "質問内容設定",
   "regist.step3.modal_question_jobgroup.th.time": "質問時間設定",
-  "regist.step3.modal_question_jobgroup.guide2": "考え時間設定可能な範囲:10秒〜60秒<br>回答時間設定可能な範囲:30秒〜180秒",
+  "regist.step3.modal_question_jobgroup.guide2": "考える時間の設定可能範囲:10秒〜60秒<br>回答時間の設定可能範囲:30秒〜180秒",
   "regist.step3.modal_question_jobgroup.label.think_time": "考える時間",
   "regist.step3.modal_question_jobgroup.label.sec": "秒",
   "regist.step3.modal_question_jobgroup.label.time": "回答時間",
