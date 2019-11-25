@@ -46,7 +46,7 @@
   "regist.step1.basic.th.url": "受検者サイト",
   "regist.step1.ai.header": "AI検査の面接官設定",
   "regist.step1.ai.th.call_tts": "音声のテスト",
-  "regist.step1.ai.button.call_tts": "声を聴く",
+  "regist.step1.ai.button.call_tts": "音声を聴く",
   "regist.step1.ai.guide": "お聴きしたいテキストを入力し、音声を確認してください。",
   "regist.step1.ai.line": "こんにちは、はじめまして。これからオンライン検査を始めます。",
   "regist.step1.ai.th.closing_remarks": "終わりの言葉設定",
