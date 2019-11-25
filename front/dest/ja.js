@@ -51,7 +51,7 @@
   "regist.step1.ai.line": "こんにちは、はじめまして。これからオンライン検査を始めます。",
   "regist.step1.ai.th.closing_remarks": "終わりの言葉設定",
   "regist.step1.ai.guide.closing_remarks": "受検終了後、受検者に案内される終わりの言葉を設定してください。",
-  "regist.step1.ai.button.closing_remarks": "基本締め言葉を適用",
+  "regist.step1.ai.button.closing_remarks": "定番の終わりの言葉を適用",
   "regist.step1.ai.guide.closing_remarks2": "終わりの言葉は3個まで登録できます。",
   "regist.step1.ai.line.closing_remarks": "これでオンライン面接は全て終了しました。",
   "regist.step1.ai.line.closing_remarks2": "長い時間割いていただき、誠にありがとうございます。良い結果があることを願います。",
