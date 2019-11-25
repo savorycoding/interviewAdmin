@@ -108,7 +108,7 @@
   "regist.step2.alert.add1": "保有ポイントが不足しているため、受検者の追加ができません。ポイントの購入後、やり直してください。",
   "regist.step2.label3": "総",
   "regist.step2.label4": "名",
-  "regist.step2.button.download": "様式ダウンロード",
+  "regist.step2.button.download": "書式ダウンロード",
   "regist.step2.alert.download": "フォームダウンロードを完了しました。",
   "regist.step2.alert.download2": "フォームダウンロードに失敗しました。もう一度やり直してください。",
   "regist.step2.button.upload": "Excelアップロード",
