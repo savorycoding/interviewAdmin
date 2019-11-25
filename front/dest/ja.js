@@ -201,7 +201,7 @@
   "regist.step3.question.label.custom3": "一括適用",
   "regist.step3.question.button.custom": "質問設定",
   "regist.step3.question.label.custom4": "個の質問設定済み",
-  "regist.step3.modal_time.header": "職群別の所要時間",
+  "regist.step3.modal_time.header": "職種別の所要時間",
   "regist.step3.modal_time.guide": "最大62分所要",
   "regist.step3.modal_question.th.contents": "質問内容設定",
   "regist.step3.modal_question.th.time": "質問時間設定",
