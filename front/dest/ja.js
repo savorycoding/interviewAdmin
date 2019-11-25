@@ -191,7 +191,7 @@
   "regist.step3.question.label.required_time": "最大所要時間",
   "regist.step3.question.label.required_time2": "分",
   "regist.step3.question.th.common": "基本質問",
-  "regist.step3.question.guide.common": "自己紹介、長所・短所などの基本的な質問が提示されます。",
+  "regist.step3.question.guide.common": "自己紹介、強み・弱みなどの基本的な質問が提示されます。",
   "regist.step3.question.th.situation": "状況対処(状況質問)",
   "regist.step3.question.guide.situation": "様々な状況を仮定した質問が提示され、受検者は実際に回答するように答えます。(2個の質問)",
   "regist.step3.question.th.struct": "深層対話(構造化質問)",
