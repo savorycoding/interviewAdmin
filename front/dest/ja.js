@@ -70,7 +70,7 @@
   "regist.step1.result.guide.display_yn": "結果表でカスタマイズ設定を表示する。",
   "regist.step1.button.next": "次へ",
   "regist.step1.alert.save": "保存しますか?",
-  "regist.step1.label.confirm": "確認",
+  "regist.step1.label.confirm": "保存",
   "regist.step1.label.cancel": "キャンセル",
   "regist.step1.modal_blind.header": "結果表ブラインド設定",
   "regist.step1.modal_blind.guide": "ブラインドしようとする項目をOFF処理すると、ブラインドが適用されます。",
