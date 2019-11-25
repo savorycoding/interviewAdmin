@@ -88,7 +88,7 @@
   "regist.step1.ai.label.only_game": "ゲームのみ適用",
   "regist.step1.ai.label.both": "ゲームと質疑回答に適用",
   "regist.step1.ai.guide.msg1": "※質疑回答はウェブカメラとマイクが必要です。",
-  "regist.step1.result.label.blinded": "個ブラインド処理",
+  "regist.step1.result.label.blinded": "個がブラインド設定されました。",
   "regist.step1.result.guide.msg2": "隠したい項目をOFFにすると、ブラインド処理されます。",
   "regist.step1.result.label.field": "分野",
   "regist.step1.result.label.department": "部署",
