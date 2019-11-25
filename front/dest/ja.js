@@ -243,7 +243,7 @@
   "regist.step4.result.label.t_score": "T点数",
   "regist.step4.result.label.percentile_score": "パーセンタイル点数",
   "regist.step4.button.detail": "説明表示",
-  "regist.step4.modal_detail.header": "点数種類",
+  "regist.step4.modal_detail.header": "点数の種類",
   "regist.step4.modal_detail.guide": "T点数とパーセンタイルはお互い互換できますが、表現される点数の意味と範囲が違いますのでそれを考慮した上、設定してください。",
   "regist.step4.modal_detail.guide1": "T点数",
   "regist.step4.modal_detail.guide2": "受検者の原点数を平均が50点、標準偏差が10点である分布で変換した点数です。<br>T点数は、応募者間の相対的なレベルを比較しやすくするために標準化したものです。<br>平均が50点であるため、点数が50点以上である場合は平均以上、50点以下の場合は平均以下と評価できます。<br>T点数は最少20点、最大80点の範囲を持ちます。",
