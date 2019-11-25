@@ -105,7 +105,7 @@
   "regist.step2.alert.delete5": "受検者削除に失敗しました。もう一度やり直してください。",
   "regist.step2.alert.delete6": "選択した受検者を削除しました。",
   "regist.step2.button.add": "受検者登録",
-  "regist.step2.alert.add1": "保持ポイントが不足しているため、受検者を追加することはできません。ポイントの購入後に進行してください。",
+  "regist.step2.alert.add1": "保有ポイントが不足しているため、受検者の追加ができません。ポイントの購入後、やり直してください。",
   "regist.step2.label3": "総",
   "regist.step2.label4": "名",
   "regist.step2.button.download": "様式ダウンロード",
