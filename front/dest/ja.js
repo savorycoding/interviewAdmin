@@ -1401,7 +1401,7 @@
   "mail_sms.sms_result.modal_detail.guide.mms": "80byte超過時MMSで発信されます。",
   "mail_sms.sms_result.modal_detail.label.recipient": "受け取る番号",
   "mail_sms.sms_result.modal_detail.label.send_date": "発送時刻",
-  "mail_sms.sms_reservation.header": "メール／SMS 管理",
+  "mail_sms.sms_reservation.header": "メール管理",
   "mail_sms.sms_reservation.header2": "SMS 発送の予約内歴",
   "mail_sms.sms_reservation.label.exam_name": "検査名",
   "mail_sms.sms_reservation.label.exam_purpose": "対象者",
