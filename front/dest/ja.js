@@ -1504,7 +1504,7 @@
   "preferences.sms.modal_sms_registration.alert.need_confirm": "内容確認が必要です。",
   "preferences.sms.modal_sms_registration.alert.success": "番号が登録されました。",
   "preferences.sms.modal_sms_registration.alert.empty_sms": "SMS発送番号管理から登録してください。",
-  "preferences.sms.modal_sms_registration.alert.empty_number": "登録された番号がありません。右上の番号登録が必要です。",
+  "preferences.sms.modal_sms_registration.alert.empty_number": "登録されている番号がありません。右上の番号登録が必要です。",
   "preferences.sms.label.status.auth_phone": "携帯認証",
   "preferences.sms.label.status.auth_ars": "ARS認証",
   "preferences.sms.label.status.auth_document": "通信サービス利用証明願",
