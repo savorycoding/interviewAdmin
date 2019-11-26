@@ -1685,7 +1685,7 @@
   "common.exam_step_data.likert": "傾向把握",
   "common.exam_step_data.v3qna_situation": "状況対処",
   "common.exam_step_data.v3qna_struct": "深層対話",
-  "common.exam_step_data.v3qna_custom": "カスタム質問",
+  "common.exam_step_data.v3qna_custom": "カスタマイズ質問",
   "common.exam_step_data.selecting_game": "選択中",
   "common.exam_step_data.tolt": "ボールタワーを建てる",
   "common.exam_step_data.stroop2": "色ー単語一致判断",
