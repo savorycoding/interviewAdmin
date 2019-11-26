@@ -513,7 +513,7 @@
   "list.label.complete": "分析完了",
   "list.label.fail": "分析失敗",
   "list.alert.confirm_analyze": "選択した検査の分析を実行しますか？",
-  "list.alert.guide_analyze": "分析時間は最大24時間所要されることがあります。分析完了状態になると、該当典型の結果を確認することができます。分析可能人数が増加する場合、追加分析が可能です。",
+  "list.alert.guide_analyze": "分析時間は最大24時間所要されます。<br>分析完了の状態になると、該当検査の結果を確認できます。分析可能人数が増加した場合、追加分析もできます。",
   "list.alert.button.result": "結果確認",
   "list.setting.label.setting": "設定",
   "list.setting.label.step1": "検査設定",
