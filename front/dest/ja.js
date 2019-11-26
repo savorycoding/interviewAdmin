@@ -394,7 +394,7 @@
   "regist.step5.mail.label.mapping5": "＄所要時間＄",
   "regist.step5.mail.label.mapping6": "$受検サイト$",
   "regist.step5.mail.label.mapping7": "＄認証コード＄",
-  "regist.step5.mail.guide.mapping": "マッピング項目を発表文に適用するには、上のマッピング項目をクリックするか、直接タイピングしてください。",
+  "regist.step5.mail.guide.mapping": "マッピング項目を発表文に適用するためには、上のマッピング項目をクリックするか、直接タイピングしてください。",
   "regist.step5.mail.guide.mapping2": "マッピング項目を上の方式でなく、コピーして貼る場合には正常的に働きません。",
   "regist.step5.mail.button.mail_preview": "先に見る",
   "regist.step5.mail.button.mail_testsend": "案内メール事前テスト",
