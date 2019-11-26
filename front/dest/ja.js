@@ -329,7 +329,7 @@
   "regist.step4.button.prev": "戻る",
   "regist.step4.alert.submit": "保存しますか？",
   "regist.step4.alert.uncomplete": "登録が完了していません。このままページから離れると、設定が保存されません。終了しますか？",
-  "regist.step4.alert.success": "設定が保存されました。",
+  "regist.step4.alert.success": "保存されました。",
   "regist.step5.header": "AIコンピテンシー検査管理",
   "regist.step5.header2": "登録",
   "regist.step5.mail.header": "案内メール",
