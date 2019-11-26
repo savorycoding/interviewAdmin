@@ -1631,7 +1631,7 @@
   "regist.common.guide.heading.label1": "保有ポイント",
   "regist.common.guide.heading.label2": "SMS残量",
   "regist.common.guide.heading.label3": "無制限",
-  "regist.common.guide.heading.label4": "使用可",
+  "regist.common.guide.heading.label4": "使用可能",
   "regist.common.guide.heading.label5": "使用済み",
   "regist.common.guide.heading.label6": "回数",
   "result.guide.heading.content1": "受検状況が「完了」の場合、『AI面絶管理』→『リスト』で『分析』ボタンを押して、分析が終わってから結果値が出されます。",
