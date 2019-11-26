@@ -507,7 +507,7 @@
   "list.label.at": "応募者",
   "list.label.closed": "締め切り",
   "list.button.analyze": "分析",
-  "list.alert.reanalyze": "典型の設定が変更されました。分析を再実施しないと変更された事項が適用されません。",
+  "list.alert.reanalyze": "検査の設定が変更されました。再度分析を行うと変更内容が反映されます。",
   "list.label.analyzing": "分析中",
   "list.label.partial_complete": "部分完了",
   "list.label.complete": "分析完了",
