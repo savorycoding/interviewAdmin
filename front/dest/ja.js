@@ -790,7 +790,7 @@
   "exam_result.label.represent_member_fact.execute_ablity": "実行",
   "exam_result.label.represent_member_fact.relation": "関係",
   "exam_result.label.represent_member_fact.strategy": "戦略　",
-  "exam_result.guide.represent_member_fact": "在職者検査を実施してから、管理者設定で代表／類似構成員を設定すると、応募者と在職者との力量水準を比較することができます。",
+  "exam_result.guide.represent_member_fact": "在職者検査を実施した後、管理者設定で代表／類似構成員を設定すると、受検者と在職者のコンピテンシー水準を比較できます。",
   "exam_result.content.summary": "受検者の受検結果を信頼できません。<br>経営支援様の結果を他の受検者と比較できないため、本結果を意思決定に活用することは適切ではありません。<br>応答信頼不可の原因に該当するキーワードを確認してください。",
   "exam_result.guide.summary_blind": "受検者のコンピテンシー解釈がブラインドされました。",
   "exam_result.label.capacity.title": "全体コンピテンシー点数",
