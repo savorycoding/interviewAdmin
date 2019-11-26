@@ -675,7 +675,7 @@
   "result.alert.reset.confirm": "選択した受検者の受検状況をリセットしますか？",
   "result.alert.reset.complete": "選択した受検者の受検状況をリセットしました。",
   "result.alert.reset.cannot_restore": "リセットした結果は復元できません。<br>選択した受検者の結果をリセットしますか？",
-  "result.alert.download.empty_exam": "選考を選択してください。",
+  "result.alert.download.empty_exam": "検査を選択してください。",
   "result.alert.download.complete": "結果ダウンロードを完了しました。",
   "result.alert.download.fail": "結果ダウンロードに失敗しました。もう一度やり直してください。",
   "result.th.grade": "等級",
