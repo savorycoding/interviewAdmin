@@ -568,7 +568,7 @@
   "result.modal_email.label.mapping.code": "$認証コード$",
   "result.modal_email.guide.email2": "マッピングをコピー&ペーストする場合、正常に動作しません。必ず上記の方法に従って入力してください。",
   "result.modal_email.button.recopmmand": "定番書式適用",
-  "result.modal_email.conetent[0]": "オンライン面接受検についてご案内します。",
+  "result.modal_email.conetent[0]": "オンラインコンピテンシー検査の受検についてご案内します。",
   "result.modal_email.content[0]": "こんにちは。$성명$さん、$회사명$です。オンラインコンピテンシー検査が次のように行われます。<br>以下の内容を必ず理解し、受検に間違いないようお願いします。",
   "result.modal_email.content[1]": "受検日程案内",
   "result.modal_email.content[2]": "区分",
