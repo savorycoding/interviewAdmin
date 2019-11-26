@@ -865,7 +865,7 @@
   "result.modal_status.header": "受検状況照会",
   "result.modal_status.th.name": "名前",
   "result.modal_status.th.code": "応試コード",
-  "result.modal_status.th.connection_count": "接続回数",
+  "result.modal_status.th.connection_count": "総接続回数",
   "result.modal_status.th.reset_count": "接続回数リセット",
   "result.modal_status.th.current_exam_step": "応試段階進行率",
   "result.modal_status.th.current_game": "ゲーム進行率",
