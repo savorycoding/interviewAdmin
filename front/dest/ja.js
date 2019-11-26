@@ -522,7 +522,7 @@
   "list.setting.label.step4": "結果表設定",
   "list.setting.label.step5": "案内メール＆SMS設定／発送",
   "list.customizing.label.all": "一括適用",
-  "list.customizing.label.job_group": "職群別適用",
+  "list.customizing.label.job_group": "職種別適用",
   "list.customizing.th.category": "区分",
   "list.customizing.th.name": "カスタマイズ名",
   "list.customizing.th.status": "状態",
