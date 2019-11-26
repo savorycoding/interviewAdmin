@@ -661,7 +661,7 @@
   "result.label.score.personal_relation": "関係コンピテンシー指数",
   "result.label.score.organization_fit": "組織適合指数",
   "result.label.score.preferable_index": "好感指数",
-  "result.label.recommand_tag": "推薦可否",
+  "result.label.recommand_tag": "推薦度",
   "result.label.recommand_tag_vh": "非常に推奨",
   "result.label.recommand_tag_h": "推奨",
   "result.label.recommand_tag_m": "普通",
