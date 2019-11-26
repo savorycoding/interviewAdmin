@@ -639,7 +639,7 @@
   "result.label.zip": "ZIPダウンロード",
   "result.alert.print_empty": "結果表を印刷する結果が存在する応募者を選択してください。",
   "result.button.download": "結果ダウンロード",
-  "result.alert.download_empty_exam": "選考を選択してください。",
+  "result.alert.download_empty_exam": "検査を選択してください。",
   "result.alert.download_success": "結果ダウンロードを完了しました。",
   "result.alert.download_fail": "結果ダウンロードに失敗しました。もう一度お願いします。",
   "result.guide.empty_exam": "照会する選考を選択してください。",
