@@ -1423,7 +1423,7 @@
   "mail_sms.sms_reservation.th.detail": "見る",
   "mail_sms.sms_reservation.alert.empty": "該当典型に予約されているSMSがありません。",
   "mail_sms.sms_reservation.label.guide": "利用案内",
-  "mail_sms.sms_reservation.guide.modify": "予約のキャンセル及び修正は該当選考設定の「案内メール＆SMS設定／送信」から可能です。",
+  "mail_sms.sms_reservation.guide.modify": "予約のキャンセル及び修正は該当検査設定の「案内メール設定／送信」でできます。",
   "mail_sms.sms_reservation.modal_detail.header": "発信SMSの詳細を見る",
   "mail_sms.sms_reservation.modal_detail.header2": "SMS(Short Message Service)",
   "mail_sms.sms_reservation.modal_detail.guide.mms": "80byte超過時MMSで発信されます。",
