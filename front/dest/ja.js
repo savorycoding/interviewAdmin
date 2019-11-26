@@ -589,7 +589,7 @@
   "result.modal_email.button.send": "送信",
   "result.modal_email.button.cancel": "キャンセル",
   "result.modal_email.alert.success": "メールが送信されました。",
-  "result.modal_email.alert.success_presend": "案内メールの送信が完了されました。",
+  "result.modal_email.alert.success_presend": "案内メールの送信が完了しました。",
   "result.modal_email.alert.fail": "メール送信に失敗しました。もう一度やり直してください。",
   "result.modal_email.alert.fail_presend": "案内メール送信失敗",
   "result.modal_email_preview.preview.guide": "000（認証コード：00000）受検者にメールを送信する場合、以下のようになります。",
