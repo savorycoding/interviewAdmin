@@ -690,7 +690,7 @@
   "result.th.growth": "成長コンピテンシー",
   "result.th.observe_characteristic": "組織不適合",
   "result.th.reset_count": "結果リセット",
-  "result.th.reset_count_logs": "結果リセット<br>内歴",
+  "result.th.reset_count_logs": "結果リセット<br>履歴",
   "exam_result.header": "AI面積結果",
   "exam_result.button.preview": "印刷プレビュー",
   "exam_result.button.pdf": "PDFダウンロード",
