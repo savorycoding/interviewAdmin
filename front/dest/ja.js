@@ -635,7 +635,7 @@
   "result.button.print": "印刷",
   "result.button.print_preview": "印刷プレビュー",
   "result.button.pdf": "PDFダウンロード",
-  "result.modal_print.header": "AI面接結果表印刷プレビュー",
+  "result.modal_print.header": "AI検査結果表の印刷プレビュー",
   "result.label.zip": "ZIPダウンロード",
   "result.alert.print_empty": "結果表を印刷する結果が存在する応募者を選択してください。",
   "result.button.download": "結果ダウンロード",
