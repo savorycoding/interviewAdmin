@@ -362,7 +362,7 @@
   "regist.step5.modal_recommand.template[6]": "※システムチェックは受検期間の前から確認できます。",
   "regist.step5.modal_recommand.template[7]": "受検者サイトにアクセスし、カメラ／マイクのチェックを行ってください。",
   "regist.step5.modal_recommand.template[8]": "【受検案内】",
-  "regist.step5.modal_recommand.template[9]": "オンライン面接は質疑回答とゲーム遂行の構成です。",
+  "regist.step5.modal_recommand.template[9]": "オンラインコンピテンシー検査は質疑回答とゲーム遂行の構成です。",
   "regist.step5.modal_recommand.template[10]": "質疑回答は、提示される質問に対し、よく考えてから回答するパートです。",
   "regist.step5.modal_recommand.template[11]": "ゲーム遂行は、説明を聞いてマウス・キーボードで解決していくパートです。",
   "regist.step5.modal_recommand.template[12]": "【注意事項】",
