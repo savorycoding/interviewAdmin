@@ -214,7 +214,7 @@
   "regist.step3.modal_question.button.reset": "リセット",
   "regist.step3.modal_question.button.cancle": "キャンセル",
   "regist.step3.modal_question.alert.contents": "質問内容を入力してください。",
-  "regist.step3.modal_question_jobgroup.header": "職種別質問登録",
+  "regist.step3.modal_question_jobgroup.header": "職種別の質問登録",
   "regist.step3.modal_question_jobgroup.guide1": "職種別に最大5個の質問を登録できます。",
   "regist.step3.modal_question_jobgroup.th.content": "質問内容設定",
   "regist.step3.modal_question_jobgroup.th.time": "質問時間設定",
