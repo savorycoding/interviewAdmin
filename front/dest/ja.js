@@ -553,7 +553,7 @@
   "result.label.send": "送信",
   "result.label.send_email": "メール送信",
   "result.label.send_sms": "SMS発送",
-  "result.alert.send_empty": "選択された使用者がいません。",
+  "result.alert.send_empty": "選択された受検者がいません。",
   "result.modal_email.header": "案内メール送信",
   "result.modal_email.th.sender": "差出人",
   "result.modal_email.th.email": "宛先",
