@@ -359,7 +359,7 @@
   "regist.step5.modal_recommand.template[3]": "マウスとキーボード",
   "regist.step5.modal_recommand.template[4]": "質問への回答の準備（自己紹介／強み・弱みなど）",
   "regist.step5.modal_recommand.template[5]": "※オンライン面接は必ずイヤホンを使用してください。外部に出力されるスピーカーなどを使用する場合、ハウリング（鳴音）が生じる可能性があります。",
-  "regist.step5.modal_recommand.template[6]": "※システムチェックは受検期間の前から事前に確認できます。",
+  "regist.step5.modal_recommand.template[6]": "※システムチェックは受検期間の前から確認できます。",
   "regist.step5.modal_recommand.template[7]": "受検者サイトにアクセスし、カメラ／マイクのチェックを行ってください。",
   "regist.step5.modal_recommand.template[8]": "【受検案内】",
   "regist.step5.modal_recommand.template[9]": "オンライン面接は質疑回答とゲーム遂行の構成です。",
