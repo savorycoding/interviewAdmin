@@ -264,7 +264,7 @@
   "regist.step4.modal_display_yn.header2": "基本情報",
   "regist.step4.modal_display_yn.label.name": "名前",
   "regist.step4.modal_display_yn.label.photo": "AI面接写真",
-  "regist.step4.modal_display_yn.label.exam_name": "選考名",
+  "regist.step4.modal_display_yn.label.exam_name": "検査名",
   "regist.step4.modal_display_yn.label.job_group_code": "職群/職務",
   "regist.step4.modal_display_yn.label.sector": "応募分野",
   "regist.step4.modal_display_yn.header3": "詳細設定項目",
