@@ -300,7 +300,7 @@
   "regist.step4.modal_fitness_display.alert.maximum": "職務適合度は、職種別に最大4個まで設定できます。",
   "regist.step4.comparison.header": "代表／類似構成員設定",
   "regist.step4.comparison.guide": "※[代表/類似メンバー対象者]と区分・設定されている在職者のAI面接結果が設定に必要です。<br>[代表/類似メンバー対象者]に設定された在職者の検査がない場合、[使用しない]にチェックしてから次へ進んでください。",
-  "regist.step4.comparison.th.ai": "オンラインAI面接",
+  "regist.step4.comparison.th.ai": "オンラインAIコンピテンシー検査",
   "regist.step4.comparison.label.represent_member": "代表構成員設定",
   "regist.step4.comparison.button.represent_member_none": "使用しない",
   "regist.step4.comparison.button.represent_member_all": "一括設定",
