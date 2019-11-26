@@ -706,7 +706,7 @@
   "exam_result.label.total_score.m": "普通",
   "exam_result.label.total_score.l": "推奨しない",
   "exam_result.label.exam_name": "検査名",
-  "exam_result.label.job_group": "応募職群／職務",
+  "exam_result.label.job_group": "応募職種／職務",
   "exam_result.label.organization": "応募分野",
   "exam_result.label.high_perform_prediction.title": "高成果予測点数",
   "exam_result.label.average_score": "全体平均点数",
