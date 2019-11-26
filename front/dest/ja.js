@@ -650,7 +650,7 @@
   "result.label.not_take_exam": "未完了",
   "result.label.done": "完了",
   "result.label.count_reset": "接続回数超過",
-  "result.label.response_reliability": "応答信頼性",
+  "result.label.response_reliability": "回答信頼性",
   "result.label.response_reliability_possibility": "回答信頼可能",
   "result.label.response_reliability_impossibility": "回答信頼不可",
   "result.label.response_reliability_possibility_short": "信頼可能",
