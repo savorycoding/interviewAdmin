@@ -860,7 +860,7 @@
   "exam_result.label.concentration_change_pattern.label.interview_guide_normal": "普通",
   "exam_result.label.concentration_change_pattern.label.interview_guide_need_check": "検証必要",
   "exam_result.label.concentration_change_pattern.label.score": "0点",
-  "exam_result.label.concentration_change_pattern.label.question_guide": "意思決定有形別質問ガイド",
+  "exam_result.label.concentration_change_pattern.label.question_guide": "意思決定類型別質問ガイド",
   "exam_result.label.concentration_change_pattern.label.recommand_question": "オススメ質問",
   "result.modal_status.header": "受検状況照会",
   "result.modal_status.th.name": "名前",
