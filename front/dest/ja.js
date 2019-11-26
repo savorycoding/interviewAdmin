@@ -335,7 +335,7 @@
   "regist.step5.mail.header": "案内メール",
   "regist.step5.mail.button.recommand_format": "定番書式を見る",
   "regist.step5.modal_recommand.header": "定番書式",
-  "regist.step5.modal_recommand.content[0]": "オンライン面接受検に関する案内を申し上げます。",
+  "regist.step5.modal_recommand.content[0]": "オンラインコンピテンシー検査に関するご案内を申し上げます。",
   "regist.step5.modal_recommand.content[1]": "案内事項",
   "regist.step5.modal_recommand.content[2]": "内容",
   "regist.step5.modal_recommand.content[3]": "区分",
