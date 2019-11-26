@@ -452,7 +452,7 @@
   "regist.step5.alert.empty_contents": "メールの内容がありません。",
   "regist.step5.alert.invalid_sms": "登録されたＳＭＳ発信番号が存在しません。［設定］からＳＭＳ発信番号を登録した上で進めてください。",
   "regist.step5.alert.emtpy": "ＳＭＳに送る内容がありません。",
-  "regist.step5.alert.invalid_time": "の発送時間を現在の時間より前には設定できません。",
+  "regist.step5.alert.invalid_time": "の送信時間は現在の時間より前に設定できません。",
   "regist.step5.modal_confirm.header": "案内メール／ＳＭＳ発送確認",
   "regist.step5.modal_confirm.header2": "メール",
   "regist.step5.modal_confirm.th.mail": "発送メール",
