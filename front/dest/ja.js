@@ -551,7 +551,7 @@
   "result.alert.remove_confirm": "選択した受検者を削除しますか？",
   "result.alert.remove_success": "選択した受検者を削除しました。",
   "result.label.send": "送信",
-  "result.label.send_email": "メール発送",
+  "result.label.send_email": "メール送信",
   "result.label.send_sms": "SMS発送",
   "result.alert.send_empty": "選択された使用者がいません。",
   "result.modal_email.header": "案内メール発送",
