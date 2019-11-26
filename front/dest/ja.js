@@ -600,7 +600,7 @@
   "result.modal_email_pretest.button.send": "送信",
   "result.modal_email_pretest.button.cancel": "キャンセル",
   "result.modal_email_pretest.alert.scuccess": "案内メールの送信が完了しました。",
-  "result.modal_email_pretest.alert.fail": "案内メール",
+  "result.modal_email_pretest.alert.fail": "案内メール送信失敗",
   "result.modal_sms.header": "お知らせメッセージの内容",
   "result.modal_sms.th.sender": "差出人",
   "result.modal_sms.header2": "SMSメッセージサービス（1名）",
