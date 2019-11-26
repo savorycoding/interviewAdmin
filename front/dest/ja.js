@@ -288,7 +288,7 @@
   "regist.step4.modal_display_yn.label.interview_guide": "面接質問ガイド",
   "regist.step4.modal_display_yn.button.submit": "保存",
   "regist.step4.modal_display_yn.button.cancel": "キャンセル",
-  "regist.step4.modal_display_yn.alert.submit": "確認しますか？",
+  "regist.step4.modal_display_yn.alert.submit": "保存しますか？",
   "regist.step4.th.fitness_display": "職務適合度の表示設定",
   "regist.step4.button.fitness_display": "職務適合度の表示設定",
   "regist.step4.label.fitness_display_empty": "選択された職務無し",
