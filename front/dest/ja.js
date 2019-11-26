@@ -396,7 +396,7 @@
   "regist.step5.mail.label.mapping7": "＄認証コード＄",
   "regist.step5.mail.guide.mapping": "マッピング項目を発表文に適用するためには、上のマッピング項目をクリックするか、直接タイピングしてください。",
   "regist.step5.mail.guide.mapping2": "マッピングをコピー&ペーストする場合、正常に動作しません。",
-  "regist.step5.mail.button.mail_preview": "先に見る",
+  "regist.step5.mail.button.mail_preview": "プレビュー",
   "regist.step5.mail.button.mail_testsend": "案内メール事前テスト",
   "regist.step5.modal_mail_preview.title": "案内メールのプレビュー",
   "regist.step5.modal_mail_preview.guide": "（認証コード：12345678）応募者にメールを送信する場合、以下のように送信されます。",
