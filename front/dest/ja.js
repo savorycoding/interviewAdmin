@@ -670,7 +670,7 @@
   "result.label.total_count": "全<strong class=\"number\">{0}</strong>名",
   "result.label.count": "名",
   "result.alert.delete.empty_examinee": "削除する受検者を選択してください。",
-  "result.alert.delete.cannot_restore": "삭제 된 데이터는 복구가 불가능합니다.\n<br> 정말 삭제하시겠습니까?",
+  "result.alert.delete.cannot_restore": "削除されたデータは復元できません。<br>本当に削除しますか？",
   "result.alert.delete.success": "選択した受検者を削除しました。",
   "result.alert.reset.confirm": "選択した受検者の受検状況をリセットしますか？",
   "result.alert.reset.complete": "選択した受検者の受検状況をリセットしました。",
