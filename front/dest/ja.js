@@ -342,7 +342,7 @@
   "regist.step5.modal_recommand.content[4]": "内容",
   "regist.step5.modal_recommand.content[5]": "受検期間",
   "regist.step5.modal_recommand.content[6]": "＄応試期間＄",
-  "regist.step5.modal_recommand.content[7]": "応試期間",
+  "regist.step5.modal_recommand.content[7]": "所要時間",
   "regist.step5.modal_recommand.content[8]": "検査日程案内",
   "regist.step5.modal_recommand.content[9]": "＄応試期間＄※必ず期限内に応試を完了してください。",
   "regist.step5.modal_recommand.content[10]": "＄応試サイト＄",
