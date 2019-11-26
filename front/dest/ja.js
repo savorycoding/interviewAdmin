@@ -370,7 +370,7 @@
   "regist.step5.modal_recommand.template[14]": "受検開始後には一時停止などの機能はありません。受検に集中できる環境で開始してください。",
   "regist.step5.modal_recommand.template[15]": "インターネットへの接続は有線ケーブルを利用してください。また、事前にネットワークの接続状況を確認してください。",
   "regist.step5.modal_recommand.template[16]": "受検中ネットワーク接続が切れた場合、受検が中止される可能性があります。それ件に対する不利益に関しては責任を負いかねます。",
-  "regist.step5.modal_recommand.template[17]": "必ず起動中のソフト全てを終了してからオンライン面接を行ってください。",
+  "regist.step5.modal_recommand.template[17]": "必ず起動中のソフト全てを終了した後、オンライン面接を行ってください。",
   "regist.step5.modal_recommand.template[18]": "受検中には更新(F5)、戻るボタンを使えません。",
   "regist.step5.modal_recommand.template[19]": "モバイル環境では受検できません。",
   "regist.step5.modal_recommand.template[20]": "内容のスクリーンショット、動画撮影などの行為は法的責任を問われる可能性があります。",
