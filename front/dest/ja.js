@@ -616,7 +616,7 @@
   "result.modal_sms.label.mapping5": "$受検サイト$",
   "result.modal_sms.label.mapping6": "$認証コード$",
   "result.modal_sms.button.recommand": "定番書式適用",
-  "result.modal_sms.contents[0]": "[$会社名$オンライン面接実施案内 ]　以下のようにオンラインAI面接典型を実施する予定です。◆応試期間：＄応試期間＄　◆認証コード：＄認証コード＄オンライン面接に関する詳細内容は案内メールで必ず確認してください。ありがとうございます。",
+  "result.modal_sms.contents[0]": "[$会社名$のオンラインコンピテンシー検査の実施案内 ]<br><br>以下のようにオンラインAIコンピテンシー検査を実施する予定です。<br><br>◆応試期間：＄応試期間＄　<br>◆認証コード：＄認証コード＄<br><br>オンライン面接に関する詳細内容は案内メールで必ず確認してください。<br><br>ありがとうございます。",
   "result.modal_sms_preview.guide.preview": "000（認証コード：00000）応募者にメールを発送する場合、以下のようになります。",
   "result.modal_sms_presend.header": "案内SMSをテスト",
   "result.modal_sms_presend.th.phone": "宛先",
