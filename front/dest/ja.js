@@ -586,7 +586,7 @@
   "result.modal_email.content[14]": "1．受検を始める前、説明を必ずしっかり理解してください。<br>2．各類型、ページ別に所要時間が決められています。時間を気にしながら進めてください。<br>３．最新バージョンのInternet Explorer、EdgeまたはGoogle Chromeでのみ受検してください。<br>４．受検開始後には一時停止などの機能はありません。受検に集中できる環境で開始してください。<br>５．インターネットへの接続は有線ケーブルを利用してください。また、事前にネットワークの接続状態を確認してください。受検中ネットワーク接続が切れる場合、受検が中止される可能性があり、その件に対する不利益は責任を負いかねます。<br>６．モバイル環境では受検できません。<br>７．本検査の内容を漏洩する場合、法的責任を問われる可能性があります。",
   "result.modal_email.button.preview": "プレビュー",
   "result.modal_email.button.presend": "案内メールのテスト",
-  "result.modal_email.button.send": "発送する",
+  "result.modal_email.button.send": "送信",
   "result.modal_email.button.cancel": "キャンセル",
   "result.modal_email.alert.success": "メールが発送されました。",
   "result.modal_email.alert.success_presend": "案内メールの送信が完了しました。",
