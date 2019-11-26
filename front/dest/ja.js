@@ -366,7 +366,7 @@
   "regist.step5.modal_recommand.template[10]": "質疑回答は、提示される質問に対し、よく考えてから回答するパートです。",
   "regist.step5.modal_recommand.template[11]": "ゲーム遂行は、説明を聞いてマウス・キーボードで解決していくパートです。",
   "regist.step5.modal_recommand.template[12]": "【注意事項】",
-  "regist.step5.modal_recommand.template[13]": "Google Chromeブラウザでのみ受検が可能です。",
+  "regist.step5.modal_recommand.template[13]": "Google Chromeブラウザでのみ受検できます。",
   "regist.step5.modal_recommand.template[14]": "受検開始後には一時停止などの機能はありません。受検に集中できる環境で開始してください。",
   "regist.step5.modal_recommand.template[15]": "インターネットへの接続は有線ケーブルを利用してください。また、事前にネットワークの接続状況を確認してください。",
   "regist.step5.modal_recommand.template[16]": "受検中ネットワーク接続が切れた場合、受検が中止される可能性があります。それ件に対する不利益に関しては責任を負いかねます。",
