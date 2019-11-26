@@ -554,7 +554,7 @@
   "result.label.send_email": "メール送信",
   "result.label.send_sms": "SMS発送",
   "result.alert.send_empty": "選択された使用者がいません。",
-  "result.modal_email.header": "案内メール発送",
+  "result.modal_email.header": "案内メール送信",
   "result.modal_email.th.sender": "差出人",
   "result.modal_email.th.email": "宛先",
   "result.modal_email.guide.email": "マッピング項目を発表文に適用するためには、上のマッピング項目をクリックするか、直接タイピングしてください。",
