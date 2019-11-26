@@ -832,7 +832,7 @@
   "exam_result.label.decision_making_types.present_orientation": "現在型",
   "exam_result.label.data_utilization_keyword.title": "情報活用類型",
   "exam_result.label.data_utilization_keyword.type": "総合情報活用類型",
-  "exam_result.guide.data_utilization_keyword": "意思決定過程で応募者が主に活用している情報有形を確認できます。",
+  "exam_result.guide.data_utilization_keyword": "意思決定の過程で受検者が主に活用する情報類型を確認できます。",
   "exam_result.label.data_utilization_keyword.profit_sensitive": "利益情報",
   "exam_result.label.data_utilization_keyword.loss_sensitive": "損失情報",
   "exam_result.label.data_utilization_keyword.probability_sensitive": "確率情報",
