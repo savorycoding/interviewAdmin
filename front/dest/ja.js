@@ -382,7 +382,7 @@
   "regist.step5.mail.label.is_send": "送る",
   "regist.step5.mail.label.time": "時、分",
   "regist.step5.mail.th.sender": "差出人",
-  "regist.step5.mail.alert.sender": "SPF登録が確認されていないメールアドレスです。SPF登録が済んでいない場合、入力したメールアドレスでないnoreply@testsvc-mit2-recruiter-co-kr.midasweb.netに送る住所が自動変換され発送されます。",
+  "regist.step5.mail.alert.sender": "SPFに登録されていないメールアドレスです。SPFに登録されていないメールアドレスはnoreply@testsvc-mit2-recruiter-co-kr.midasweb.netと自動変換されて発送されます。",
   "regist.step5.mail.label.sender": "会社代表メールに送る",
   "regist.step5.mail.th.title": "メールタイトル",
   "regist.step5.mail.label.delete": "削除",
