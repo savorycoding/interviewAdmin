@@ -364,7 +364,7 @@
   "regist.step5.modal_recommand.template[8]": "【受検案内】",
   "regist.step5.modal_recommand.template[9]": "オンラインコンピテンシー検査は質疑回答とゲーム遂行の構成です。",
   "regist.step5.modal_recommand.template[10]": "質疑回答は、提示される質問に対しよく考えた上、回答するパートです。",
-  "regist.step5.modal_recommand.template[11]": "ゲーム遂行は、説明を聞いてマウス・キーボードで解決していくパートです。",
+  "regist.step5.modal_recommand.template[11]": "ゲーム遂行は、説明を聞いてマウス・キーボードで解決するパートです。",
   "regist.step5.modal_recommand.template[12]": "【留意事項】",
   "regist.step5.modal_recommand.template[13]": "Google Chromeブラウザでのみ受検できます。",
   "regist.step5.modal_recommand.template[14]": "受検開始後には一時停止などの機能はありません。受検に集中できる環境で開始してください。",
