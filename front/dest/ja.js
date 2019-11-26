@@ -163,7 +163,7 @@
   "regist.step2.modal_add.alert.fail": "受検者の登録に失敗しました。もう一度やり直してください。",
   "regist.step2.modal_modify.alert.save": "保存しますか？",
   "regist.step2.modal_modify.alert.success": "修正されました。",
-  "regist.step2.alert.empty": "登録された受検者がいません。",
+  "regist.step2.alert.empty": "登録されている受検者がいません。",
   "regist.step2.modal_modify.alert.done": "されました。",
   "regist.step2.label.examinee": "受検者",
   "regist.step2.modal_modify.alert.fail2": "に失敗しました。もう一度やり直してください。",
