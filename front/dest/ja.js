@@ -1579,7 +1579,7 @@
   "manager_interview.agreement_letter_create.alert.empty": "内容を入力してください。",
   "manager_interview.agreement_letter_create.alert.confirm": "保存しますか？",
   "manager_interview.agreement_letter_create.guide2": "マッピング項目を発表文に入れたい場合、<b>直接入力</b>してください。",
-  "manager_interview.agreement_letter_create.guide3": "マッピング項目を上の方式でなく、コピーして貼る場合には正常的に働きません。",
+  "manager_interview.agreement_letter_create.guide3": "マッピングをコピー&ペーストする場合、正常に動作しません。",
   "manager_interview.agreement_letter_create.button.save": "保存",
   "manager_interview.agreement_letter_create.button.cancel": "キャンセル",
   "manager_interview.header1": "応募者サイト管理",
