@@ -943,7 +943,7 @@
   "customizing.step2.alert.empty_answer": "問題の答案を選択してください。",
   "customizing.step2.alert.minimum_answer": "{0}問題は最低{1}個の答案を選択してください。",
   "customizing.step2.alert.needs_analyze_ai": "該当のカスタマイズはオンラインAIコンピテンシー検査に適用されています。<br>変更事項を適用するためにはカスタマイズを再分析してください。",
-  "customizing.step2.alert.needs_analyze": "変更を適用するためにはカスタマイズを再分析する必要があります。",
+  "customizing.step2.alert.needs_analyze": "変更事項を適用するためにはカスタマイズを再分析してください。",
   "customizing.step2.alert.maximum": "最大{0}個に選択してください。",
   "customizing.step2.label.empty": "選択された力量がありません。",
   "customizing.step2.label.save": "保存されました。",
