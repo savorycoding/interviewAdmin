@@ -1208,7 +1208,7 @@
   "member_group.setting.list.button.delete": "削除",
   "member_group.setting.list.alert.delete.empty": "選択した在職者グループがありません。",
   "member_group.setting.list.alert.delete.confirm": "選択した在職者グループを削除しますか？",
-  "member_group.setting.list.alert.delete.partial_complete": "代表メンバーや類似メンバーの在職者グループは削除できません。削除可能な在職者グループが削除されました。",
+  "member_group.setting.list.alert.delete.partial_complete": "代表メンバーや類似メンバーの在職者グループは削除できません。削除できる在職者グループのみ削除されました。",
   "member_group.setting.list.alert.delete.complete": "削除されました。",
   "member_group.setting.list.label.count_all": "全",
   "member_group.setting.list.label.group_count": "個",
