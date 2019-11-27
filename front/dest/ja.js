@@ -1447,7 +1447,7 @@
   "preferences.basic.label.login_image": "ログインページの画像",
   "preferences.basic.guide.login_image": "ログインページの背景で使用される画像です。未設定の場合、基本画像が見えます。",
   "preferences.basic.label.login_image2": "ログインページの背景画像",
-  "preferences.basic.modal_login.image.header": "ログイン画像ファイル添付",
+  "preferences.basic.modal_login.image.header": "ログイン画像ファイルの添付",
   "preferences.basic.modal_login.image.guide.file_extensions": "JPG, GIFまたは PNG形式のファイルをアップロードできます。お勧めのサイズは890 * 550です。<br>有名人の画像、ヌード画像、芸術画像または著作権でほごされている画像はアップロードできません。",
   "preferences.basic.modal_login.button.header": "画像選択完了",
   "preferences.basic.submit": "変更事項保存",
