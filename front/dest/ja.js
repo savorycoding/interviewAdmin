@@ -1638,7 +1638,7 @@
   "regist.common.guide.heading.label4": "使用可能",
   "regist.common.guide.heading.label5": "使用済み",
   "regist.common.guide.heading.label6": "回数",
-  "result.guide.heading.content1": "受検状況が「完了」である場合、「AI面接管理」→「リスト」から「分析」を押すと、分析が実行され、終わったら結果が出ます。",
+  "result.guide.heading.content1": "受検状態が「完了」である場合、「AI面接管理」→「リスト」から「分析」を押すと、分析が実行され、終わったら結果が出ます。",
   "result.guide.heading.content2": "受検者の結果のリセットは1回のみできます。精算の問題のために、回数を増やすことはできません。",
   "result.guide.heading.content3": "未受検の受検者は、設定された受検期間の末日から2週後、自動的にポイントが返却されます。",
   "result.guide.heading.content4": "未完了、完了の受検者の場合、情報や結果を消してもポイントは返却されません。",
