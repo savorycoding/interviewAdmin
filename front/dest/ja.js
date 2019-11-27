@@ -1610,7 +1610,7 @@
   "manager_interview.step2.header3": "ログインページの背景画像",
   "manager_interview.step2.guide.login_page_img": "受検者サイトログインページの背景に使用される画像です。",
   "manager_interview.step2.guide.login_page_img2": "設定しない場合、基本ロゴが見えます。",
-  "manager_interview.step2.header4": "ログインボタン及びポップアップ色の設定",
+  "manager_interview.step2.header4": "ログインボタン及びポップアップの色設定",
   "manager_interview.step2.button.preview": "プレビュー",
   "manager_interview.step2.alert.success": "保存されました。",
   "manager_interview.step2.guide.color_type": "受検者サイトのログインページのログインボタンとポップアップの色を設定できます。",
