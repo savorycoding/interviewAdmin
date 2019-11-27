@@ -1252,7 +1252,7 @@
   "member_group.setting.modal_add.alert.save.empty": "選択された在職者がいません。最小1人の在職者を選択してください。",
   "member_group.setting.modal_add.alert.save.confirm": "保存しますか？",
   "member_group.setting.button.delete": "削除",
-  "member_group.setting.alert.delete.empty": "選択した在職者がいます。",
+  "member_group.setting.alert.delete.empty": "選択した在職者がいません。",
   "member_group.setting.alert.delete.confirm": "選択した在職者を全部削除しますか？",
   "member_group.setting.alert.delete.sucess": "削除されました。",
   "member_group.setting.label.count": "0個",
