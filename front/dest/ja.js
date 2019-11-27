@@ -1168,7 +1168,7 @@
   "member_group.list.alert.excel_upload.empty_xlsx": "Excel(*.xlsx)ファイルをアップロードしてください。",
   "member_group.list.alert.excel_upload.missing": "選択されたファイルがありません。",
   "member_group.list.alert.excel_upload.complete": "在職者情報が成功的に変更されました。",
-  "member_group.list.alert.excel_upload.fail": "失敗項目が存在します。再び確認した上でアップロードしてください。",
+  "member_group.list.alert.excel_upload.fail": "アップロードに失敗した項目があります。確認及び修正の上、もう一度やり直してください。",
   "member_group.list.button.excel_download": "書式ダウンロード",
   "member_group.list.alert.excel_download.fail": "Excelの保存に失敗しました。管理者に問い合わせてください。",
   "member_group.list.alert.excel_download.start": "Excelアップロードが始まります。",
