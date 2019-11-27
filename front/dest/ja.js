@@ -1590,7 +1590,7 @@
   "manager_interview.step1.th.name": "担当者の名前",
   "manager_interview.step1.th.phone": "電話番号",
   "manager_interview.step1.th.logo_for_exam": "受検者サイトのロゴ",
-  "manager_interview.step1.guide.logo_for_exam": "受検者案内メール及び受検者サイトで使用されるロゴの画像です。",
+  "manager_interview.step1.guide.logo_for_exam": "受検者案内メール及び受検者サイトに使用されるロゴの画像です。",
   "manager_interview.step1.guide.logo_for_exam2": "設定しない場合、基本ロゴが見えます。",
   "manager_interview.step2.header1": "ログイン情報入力",
   "manager_interview.step2.guide.login_info": "ログイ情報入力欄の名称を変更するにはONに設定を変えた上で適用してください。OFFの場合、“名前”、”応試コード’に出力します。",
