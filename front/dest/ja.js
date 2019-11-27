@@ -1624,7 +1624,7 @@
   "login.guide.empty_password": "パスワードを入力してください。",
   "login.label.manager": "担当者",
   "login.guide.incorrect": "ID／パスワードを確認の上、再びログインしてください。",
-  "login.guide.trial_exceed": "パスワードを5回連続で間違えました。 \"ID／パスワードを探す \"をクリックしてパスワードを再設定してください。",
+  "login.guide.trial_exceed": "パスワードを5回で連続間違えました。 \"ID／パスワードを探す \"をクリックし、パスワードを再設定してください。",
   "regist.common.guide.heading.header": "各製品の購入ポイントの案内",
   "regist.common.guide.heading.content1": "受検者を登録するとポイントが差し引かれます。",
   "regist.common.guide.heading.content2": "未受検の受検者は、設定された受検期間の末日から2週後、自動的にポイントが返却されます。",
