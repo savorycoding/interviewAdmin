@@ -1201,7 +1201,7 @@
   "member_group.list.modal_modify.alert.save.confirm1": "保存しますか？",
   "member_group.list.modal_modify.alert.save.confirm2": "修正しますか？",
   "member_group.list.modal_modify.alert.save.organization_maximum": "所属部署は10字以内で入力してください。",
-  "member_group.list.modal_modify.alert.save.jobgroup_maximum": "役職は5字で入力してください。",
+  "member_group.list.modal_modify.alert.save.jobgroup_maximum": "役職は5字以内で入力してください。",
   "member_group.list.modal_modify.alert.save.need_update": "変更された成果評価がカスタマイズに適用されるためには、該当の在職者が含まれているカスタマイズを再分析してください。",
   "member_group.setting.list.header": "在職者グループ設定",
   "member_group.setting.list.header2": "リスト",
