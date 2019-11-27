@@ -1060,7 +1060,7 @@
   "customizing.list.label.exam_count": "個検査",
   "customizing.list.label.category": "区分",
   "customizing.list.label.exam_name": "検査名",
-  "customizing.list.label.applied_yn": "適用可否",
+  "customizing.list.label.applied_yn": "適用",
   "customizing.list.label.all": "一括適用",
   "customizing.list.label.custom_all_kind": "職種別適用",
   "customizing.list.label.apply_none": "適用しない",
