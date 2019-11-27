@@ -957,7 +957,7 @@
   "customizing.step3.guide.member_useyn": "最小30人の高成果者(S/Aランク)の設定が必修であり、中・低成果者(B/C/Dランク)を含む多数の在職者を設定するほどより正確なカスタマイズ分析ができます。",
   "customizing.step3.h3.title": "在職者設定",
   "customizing.step3.button.add": "追加",
-  "customizing.step3.modal_employee.header": "カスタマイズ在職者設定",
+  "customizing.step3.modal_employee.header": "カスタマイズの在職者設定",
   "customizing.step3.modal_employee.button.load": "全部呼び出す",
   "customizing.step3.modal_employee.th.group": "在職者グループ",
   "customizing.step3.modal_employee.label.group": "在職者グループ名",
