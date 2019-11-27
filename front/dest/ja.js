@@ -1815,7 +1815,7 @@
   "privacypolicy.list.alert.unacceptable_change": "既に掲示されたバージョンは変更できません。",
   "privacypolicy.list.alert.confirm_display": "掲示された個人情報取扱方針は削除できません。掲示しますか？",
   "privacypolicy.list.alert.confrim_copy": "コピーしますか？",
-  "privacypolicy.list.alert.choose_one": "個人情報取扱方針を",
+  "privacypolicy.list.alert.choose_one": "個人情報取扱方針を1個以上選択してください。",
   "privacypolicy.list.alert.confrim_remove": "削除しますか？",
   "privacypolicy.write.alert.name_it": "名称を入力してください。",
   "privacypolicy.write.alert.save": "保存しました。"
