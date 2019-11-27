@@ -1125,7 +1125,7 @@
   "member_group.regist.alert.excel_upload.empty_employee": "正しくない方法です。在職者を先に追加してください。",
   "member_group.regist.alert.excel_upload.empty_file": "アップロードするファイルを選択してください。",
   "member_group.regist.alert.excel_upload.empty_excel": "アップロードするExcel(*.xlsx)ファイルを選択してください。",
-  "member_group.regist.alert.excel_upload.empty_xlsx": "Excel統合文書(*.xlsx)ファイルをアップロードしてください。",
+  "member_group.regist.alert.excel_upload.empty_xlsx": "Excel(*.xlsx)ファイルをアップロードしてください。",
   "member_group.regist.alert.excel_upload.missing": "選択されたファイルがありません。",
   "member_group.regist.alert.excel_upload.success": "在職者情報が成功的に変更されました。",
   "member_group.regist.alert.excel_upload.fail": "失敗項目が存在します。再び確認した上でアップロードしてください。",
