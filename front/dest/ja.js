@@ -1171,7 +1171,7 @@
   "member_group.list.alert.excel_upload.fail": "アップロードに失敗した項目があります。確認及び修正の上、もう一度やり直してください。",
   "member_group.list.button.excel_download": "書式ダウンロード",
   "member_group.list.alert.excel_download.fail": "Excelの保存に失敗しました。管理者に問い合わせてください。",
-  "member_group.list.alert.excel_download.start": "Excelアップロードが始まります。",
+  "member_group.list.alert.excel_download.start": "Excelのダウンロードが始まります。",
   "member_group.list.label.examinee_name": "在職者名",
   "member_group.list.th_exam_name": "検査名",
   "member_group.list.th.name": "名前",
