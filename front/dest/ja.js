@@ -954,7 +954,7 @@
   "customizing.step3.guide.info": "在職者結果を反映したカスタマイズを実施することができます。在職者のオンラインAI面接結果と評価データを比較して重要力量を抽出し、高成果者のプロフィールを反映したカスタマイズ結果を提供します。",
   "customizing.step3.th.member_useyn": "在職者結果反映",
   "customizing.step3.label.member_useyn": "※在職者結果の反映方式",
-  "customizing.step3.guide.member_useyn": "高成果者(S/A)最小30人の設定が必修であり、中、低成果者(B/C/D)を含む多数の在職者を設定するほど正確なカスタマイズ分析が可能です。",
+  "customizing.step3.guide.member_useyn": "最小30人の高成果者(S/Aランク)の設定が必修であり、中・低成果者(B/C/Dランク)を含む多数の在職者を設定するほどより正確なカスタマイズ分析ができます。",
   "customizing.step3.h3.title": "在職者設定",
   "customizing.step3.button.add": "追加",
   "customizing.step3.modal_employee.header": "カスタマイズ在職者設定",
