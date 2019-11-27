@@ -1444,7 +1444,7 @@
   "preferences.basic.guide.company_info": "検査受検サイトのログインページに案内される担当者の情報です。",
   "preferences.basic.label.manager_name": "担当者の名前",
   "preferences.basic.label.manager_phone": "電話番号",
-  "preferences.basic.label.login_image": "ログイン画面の画像",
+  "preferences.basic.label.login_image": "ログインページの画像",
   "preferences.basic.guide.login_image": "ログインページの背景で使用される画像です。未設定の場合、基本画像が見えます。",
   "preferences.basic.label.login_image2": "ログインページの背景画像",
   "preferences.basic.modal_login.image.header": "ログイン画像ファイル添付",
