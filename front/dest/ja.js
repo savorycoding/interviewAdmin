@@ -1763,7 +1763,7 @@
   "common.filter.job_group.sales": "営業／マーケティング",
   "common.filter.job_group.production": "生産職",
   "common.filter.job_group.single": "該当なし",
-  "module.mit_image_crop.alert.max_size": "ファイルは最大10MBまでです。",
+  "module.mit_image_crop.alert.max_size": "ファイルは最大10MBです。",
   "module.mit_image_crop.alert.exclude_ext": "JPG、GIFまたはPNGのファイルのみアップロードできます。",
   "module.image_crop_upload.alert.empty": "ファイルがアップロードされていません。",
   "module.image_crop_upload.alert.confirm_delete": "現在の画像が削除されます。よろしいですか？",
