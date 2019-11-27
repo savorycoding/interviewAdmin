@@ -939,7 +939,7 @@
   "customizing.step2.button.prev": "戻る",
   "customizing.step2.button.next": "次へ",
   "customizing.step2.label.select": "選択",
-  "customizing.step2.alert.confirm": "重要人材象設定を保存しますか？",
+  "customizing.step2.alert.confirm": "保存しますか？",
   "customizing.step2.alert.empty_answer": "問題の答案を選択してください。",
   "customizing.step2.alert.minimum_answer": "{0}問題は最低{1}個の答案を選択してください。",
   "customizing.step2.alert.needs_analyze_ai": "該当のカスタマイズはオンラインAIコンピテンシー検査に適用されています。<br>変更事項を適用するためにはカスタマイズを再分析してください。",
