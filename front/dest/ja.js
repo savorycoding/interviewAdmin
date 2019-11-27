@@ -1328,7 +1328,7 @@
   "mail_sms.mail_reservation.th.sender_email": "返信メールアドレス",
   "mail_sms.mail_reservation.th.send_reservation_date": "送信予約時刻",
   "mail_sms.mail_reservation.th.deatils": "見る",
-  "mail_sms.mail_reservation.content.empty_mail": "該当検査に予約されたメールがありません。",
+  "mail_sms.mail_reservation.content.empty_mail": "該当の検査に予約されたメールがありません。",
   "mail_sms.mail_reservation.label.guide": "利用案内",
   "mail_sms.mail_reservation.guide.reservation": "予約のキャンセル及び修正は該当典型設定の［案内メール＆ＳＭＳ設定／発送］から可能です。",
   "mail_sms.mail_reservation.modal_detail.header": "発信メールの詳細を見る",
