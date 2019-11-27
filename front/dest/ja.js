@@ -1671,7 +1671,7 @@
   "common.examinee_state.incomplete": "未完了",
   "common.examinee_state.excess": "接続回数超過",
   "common.examinee_state.giveup": "受検放棄",
-  "common.examinee_state.hidden": "結果を隠す（削除）",
+  "common.examinee_state.hidden": "結果をブラインドする（削除）",
   "common.examinee_state.not_applied": "未受検",
   "common.exam_step_state.complete": "完了",
   "common.exam_step_state.start": "開始",
