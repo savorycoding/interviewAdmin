@@ -1141,7 +1141,7 @@
   "member_group.regist.th.position": "役職",
   "member_group.regist.alert.need_employee": "在職者を追加してください。",
   "member_group.regist.button.submit": "完了",
-  "member_group.regist.alert.submit.confirm": "応募者設定情報を保存しますか？",
+  "member_group.regist.alert.submit.confirm": "保存しますか？",
   "member_group.regist.alert.submit.no_employee": "設定されている在職者がいません。",
   "member_group.regist.alert.submit.organization_max": "所属部署は１０字以内で入力してください。",
   "member_group.regist.alert.submit.position_max": "職級は５字で入力してください。",
