@@ -1435,7 +1435,7 @@
   "preferences.basic.header3": "基礎情報管理",
   "preferences.basic.header4": "SMS発送番号管理",
   "preferences.basic.header5": "代表連絡先",
-  "preferences.basic.label.company_info": "メール及びSMS発送時 デフォルトで活用されます。代表連絡先を変更する場合にはログアウトの後再接続してから変更された連絡先でメール／SMSが発送されます。",
+  "preferences.basic.label.company_info": "メール送信の時、基本設定で活用されます。代表連絡先を変更した場合、ログアウトの後、再ログインしてください。変更された連絡先でメールが発送されます。",
   "preferences.basic.label.company_email": "代表メール",
   "preferences.basic.label.company_phone": "代表電話番号",
   "preferences.basic.butto.management": "管理",
