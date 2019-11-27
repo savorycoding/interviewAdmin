@@ -949,7 +949,7 @@
   "customizing.step2.label.save": "保存されました。",
   "customizing.step3.header": "カスタマイズ",
   "customizing.step3.header2": "登録",
-  "customizing.alert.invalid_route": "不適切なアクセスです。先に基本設定を行ってください。",
+  "customizing.alert.invalid_route": "不正なアクセスです。基本設定を先に進めてください。",
   "customizing.alert.empty_number": "登録番号がありません。",
   "customizing.step3.guide.info": "在職者結果を反映したカスタマイズを実施できます。<br>在職者のオンラインAI検査の結果と評価データを比較して重要コンピテンシーを抽出、高成果者のプロフィールを反映したカスタマイズの結果を提供します。",
   "customizing.step3.th.member_useyn": "在職者結果反映",
