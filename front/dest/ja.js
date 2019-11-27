@@ -1582,7 +1582,7 @@
   "manager_interview.agreement_letter_create.label.close": "閉じる",
   "manager_interview.agreement_letter_create.alert.empty": "内容を入力してください。",
   "manager_interview.agreement_letter_create.alert.confirm": "保存しますか？",
-  "manager_interview.agreement_letter_create.guide2": "マッピング項目を発表文に入れたい場合、<b>直接入力</b>してください。",
+  "manager_interview.agreement_letter_create.guide2": "マッピング項目を発表文に適用するためには、<b>直接タイピング</b>してください。",
   "manager_interview.agreement_letter_create.guide3": "マッピングをコピー&ペーストする場合、正常に動作しません。必ず上記の方法に従って入力してください。",
   "manager_interview.agreement_letter_create.button.save": "保存",
   "manager_interview.agreement_letter_create.button.cancel": "キャンセル",
