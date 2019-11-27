@@ -1011,7 +1011,7 @@
   "customizing.step3.button.prev": "戻る",
   "customizing.step3.button.submit": "完了",
   "customizing.step3.alert.submit.confirm": "カスタマイズ設定を完了しますか？",
-  "customizing.step3.alert.submit.minimum30": "カスタマイズ分析を実施するためには、高成果者(S/A)が最小30人以上設定される必要があります。",
+  "customizing.step3.alert.submit.minimum30": "カスタマイズ分析を実施するためには、最小30人以上の高成果者(S/A)の設定が必要です。",
   "customizing.step3.alert.submit.reupdate": "変更を適用するためにはカスタマイズを再分析する必要があります。",
   "customizing.step3.alert.submit.applied": "該当カスタマイズはオンラインAI面接典型に適用されています。変更された事項を適用するためにはカスタマイズを再分析する必要があります。",
   "customizing.step3.alert.submit.sample_not_use": "在職者結果反映を選択していません。カスタマイズ設定を完了しますか？",
