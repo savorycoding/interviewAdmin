@@ -1572,7 +1572,7 @@
   "manager_interview.agreement_letter_list.modal_detail.label.category": "区分",
   "manager_interview.agreement_letter_list.modal_detail.label.exam_name": "検査名",
   "manager_interview.agreement_letter_list.modal_detail.label.agree_count": "同意人員数",
-  "manager_interview.agreement_letter_create.guide": "受検者サイトで受検者がログインする時に見える個人情報提供同意書の画面の内容を設定できます。",
+  "manager_interview.agreement_letter_create.guide": "受検者サイトで受検者がログインする時、見える個人情報提供同意書の画面の内容を設定できます。",
   "manager_interview.agreement_letter_create.label.name": "名称",
   "manager_interview.agreement_letter_create.label.content": "内容",
   "manager_interview.agreement_letter_create.label.mapping": "マッピング項目",
