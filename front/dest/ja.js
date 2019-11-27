@@ -1228,7 +1228,7 @@
   "member_group.setting.header2": "リスト",
   "member_group.setting.header3": "基本設定",
   "member_group.setting.th.group_name": "在職者グループ名",
-  "member_group.setting.alert.empty_group_name": "在職者グループ名を作成してから追加設定はできます。",
+  "member_group.setting.alert.empty_group_name": "在職者グループ名を作成した後、追加設定ができます。",
   "member_group.setting.header4": "在職者追加／削除",
   "member_group.setting.button.setting": "設定",
   "member_group.setting.modal_add.header": "在職者を呼び出す",
