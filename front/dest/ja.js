@@ -945,7 +945,7 @@
   "customizing.step2.alert.needs_analyze_ai": "該当のカスタマイズはオンラインAIコンピテンシー検査に適用されています。<br>変更事項を適用するためにはカスタマイズを再分析してください。",
   "customizing.step2.alert.needs_analyze": "変更事項を適用するためにはカスタマイズを再分析してください。",
   "customizing.step2.alert.maximum": "最大{0}個に選択してください。",
-  "customizing.step2.label.empty": "選択された力量がありません。",
+  "customizing.step2.label.empty": "選択されたコンピテンシーがありません。",
   "customizing.step2.label.save": "保存されました。",
   "customizing.step3.header": "カスタマイズ",
   "customizing.step3.header2": "登録",
