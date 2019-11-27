@@ -1267,7 +1267,7 @@
   "member_group.setting.alert.empty": "登録されている在職者がいません。",
   "member_group.setting.button.submit": "完了",
   "member_group.setting.alert.submit.confirm": "保存しますか？",
-  "member_group.setting.alert.submit.fail": "在職者グループ設定に失敗しました。管理者の人に問い合わせてください。",
+  "member_group.setting.alert.submit.fail": "在職者グループ設定に失敗しました。管理者に問い合わせてください。",
   "mail_sms.mail_result.header": "メール／ＳＭＳ管理",
   "mail_sms.mail_result.header2": "メール発送結果",
   "mail_sms.mail_result.label.exam_name": "検査名",
