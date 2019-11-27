@@ -1806,7 +1806,7 @@
   "popup.write.alert.last_day": "掲示日を終了日より前に設定してください。",
   "popup.write.alert.max_width": "ポップアップの横は1000pxまでです。",
   "popup.write.alert.max_height": "ポップアップの縦は500pxまでです。",
-  "popup.write.alert.confirm_save": "設定を登録しますか？",
+  "popup.write.alert.confirm_save": "登録しますか？",
   "popup.write.alert.success_save": "登録されました。",
   "privacypolicy.list.content.empty": "同意書が存在していません。",
   "privacypolicy.list.label.modify": "修正",
