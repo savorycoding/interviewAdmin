@@ -1302,7 +1302,7 @@
   "mail_sms.mail_result.label.retrieve": "閲覧",
   "mail_sms.mail_result.content.empty_mail": "該当の検査に送信されたメールがありません。",
   "mail_sms.mail_result.modal_detail.header": "送信メールの詳細を見る",
-  "mail_sms.mail_result.modal_detail.label.send_date": "発送時間",
+  "mail_sms.mail_result.modal_detail.label.send_date": "送信時間",
   "mail_sms.mail_result.modal_detail.label.sender_email": "差出人",
   "mail_sms.mail_result.modal_detail.label.recipient_email": "宛先",
   "mail_sms.mail_result.modal_detail.label.title": "件名",
