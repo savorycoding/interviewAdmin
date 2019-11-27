@@ -1708,7 +1708,7 @@
   "common.exam_step_data.spc1": "同じ絵作り",
   "common.exam_step_data.spc2": "同じ画像を当てる",
   "common.exam_step_data.mrt": "ブロックを積み上げる",
-  "common.exam_step_data.ddt": "対価選好度",
+  "common.exam_step_data.ddt": "補償選好度",
   "common.exam_step_data.fis2": "図形選好度",
   "common.exam_step_data.ppt2": "趣向推論",
   "common.sms_error_msg.error1": "成功",
