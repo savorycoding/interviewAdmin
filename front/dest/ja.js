@@ -1692,7 +1692,7 @@
   "common.exam_step_data.v3qna_custom": "カスタマイズ質問",
   "common.exam_step_data.selecting_game": "選択中",
   "common.exam_step_data.tolt": "ボールタワーを建てる",
-  "common.exam_step_data.stroop2": "色ー単語一致判断",
+  "common.exam_step_data.stroop2": "色と単語一致判断",
   "common.exam_step_data.nback": "図形の位置を記憶する",
   "common.exam_step_data.fwt2": "ボールの重さを当てる",
   "common.exam_step_data.ert_p1_p2": "感情の変化を当てる",
