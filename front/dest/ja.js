@@ -1699,7 +1699,7 @@
   "common.exam_step_data.ert_p2_p2": "感情を当てる",
   "common.exam_step_data.pct": "天気を当てる",
   "common.exam_step_data.cct": "カードをひっくり返す",
-  "common.exam_step_data.sst": "文字ー数字を分類せする",
+  "common.exam_step_data.sst": "文字と数字を分類せする",
   "common.exam_step_data.dat": "方向を変える",
   "common.exam_step_data.eefty2": "資金を集める",
   "common.exam_step_data.bart2": "風船吹き",
