@@ -951,7 +951,7 @@
   "customizing.step3.header2": "登録",
   "customizing.alert.invalid_route": "不適切なアクセスです。先に基本設定を行ってください。",
   "customizing.alert.empty_number": "登録番号がありません。",
-  "customizing.step3.guide.info": "在職者結果を反映したカスタマイズを実施することができます。在職者のオンラインAI面接結果と評価データを比較して重要力量を抽出し、高成果者のプロフィールを反映したカスタマイズ結果を提供します。",
+  "customizing.step3.guide.info": "在職者結果を反映したカスタマイズを実施できます。<br>在職者のオンラインAI検査の結果と評価データを比較して重要コンピテンシーを抽出、高成果者のプロフィールを反映したカスタマイズの結果を提供します。",
   "customizing.step3.th.member_useyn": "在職者結果反映",
   "customizing.step3.label.member_useyn": "※在職者結果の反映方式",
   "customizing.step3.guide.member_useyn": "最小30人の高成果者(S/Aランク)の設定が必修であり、中・低成果者(B/C/Dランク)を含む多数の在職者を設定するほどより正確なカスタマイズ分析ができます。",
