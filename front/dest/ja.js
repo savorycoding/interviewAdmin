@@ -923,7 +923,7 @@
   "customizing.step1.label.answer_no": "アンケート項目",
   "customizing.step2.header": "カスタマイズ",
   "customizing.step2.header2": "登録",
-  "customizing.step2.content[0]": "貴社で重要だと思う力量キーワードして重要人材象を設定することができます。",
+  "customizing.step2.content[0]": "貴社で重要だと思うコンピテンシー・キーワードを選択して、重要人材象を設定できます。",
   "customizing.step2.content[1]": "項目を読んで、貴社で採用しようとしている人材の特性に足るキーワードにチェックしてください。",
   "customizing.step2.alert.empty_basic": "不適切なアクセスです。基本設定を先に進めてください。",
   "customizing.step2.alert.empty_phone": "登録されている番号がありません。",
