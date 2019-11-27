@@ -1151,7 +1151,7 @@
   "member_group.list.label.member": "在職者登録現況",
   "member_group.list.label.count_count": "全{0}名",
   "member_group.list.label.count":"個",
-  "member_group.list.label.response_reliable": "応答信頼人員",
+  "member_group.list.label.response_reliable": "回答信頼人員",
   "member_group.list.label.response_reliable_count": "全{0}名",
   "member_group.list.label.evaluation_status": "成果評価の登録現況",
   "member_group.list.label.evaluation_status_count": "全{0}名",
