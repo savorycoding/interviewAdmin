@@ -1038,7 +1038,7 @@
   "customizing.list.label.complete": "完了",
   "customizing.list.th.create_date": "設定日",
   "customizing.list.th.modify_date": "最終修正日",
-  "customizing.list.th.applied_exam_count": "適用典型数",
+  "customizing.list.th.applied_exam_count": "適用検査数",
   "customizing.list.th.setting": "設定",
   "customizing.list.th.analysis": "分析",
   "customizing.list.th.analysis_status": "分析状態",
