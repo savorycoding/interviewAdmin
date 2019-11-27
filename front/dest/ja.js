@@ -1128,7 +1128,7 @@
   "member_group.regist.alert.excel_upload.empty_xlsx": "Excel(*.xlsx)ファイルをアップロードしてください。",
   "member_group.regist.alert.excel_upload.missing": "選択されたファイルがありません。",
   "member_group.regist.alert.excel_upload.success": "在職者情報が成功的に変更されました。",
-  "member_group.regist.alert.excel_upload.fail": "失敗項目が存在します。再び確認した上でアップロードしてください。",
+  "member_group.regist.alert.excel_upload.fail": "アップロードに失敗した項目があります。確認及び修正の上、もう一度やり直してください。",
   "member_group.regist.th.exam_name": "検査名",
   "member_group.regist.th.name": "名前",
   "member_group.regist.th.birthday": "生年月日",
