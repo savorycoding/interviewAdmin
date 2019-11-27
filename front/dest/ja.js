@@ -1069,7 +1069,7 @@
   "member_group.regist.header2": "新規成果入力",
   "member_group.regist.header3": "在職者結果設定",
   "member_group.regist.content.guide": "※成果評価、入社日、所属部署、役職の入力は必須ではありません。<br>",
-  "member_group.regist.content.guide2": "※ 成果評価未入力時、該当在職はAI面接カスタマイズに適用できません。",
+  "member_group.regist.content.guide2": "※ 成果評価の未入力の場合、該当の在職者はAI検査のカスタマイズに適用できません。",
   "member_group.regist.button.add": "追加",
   "member_group.regist.modal_add.header": "在職者追加",
   "member_group.regist.modal_add.label.exam_name": "検査名",
