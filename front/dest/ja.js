@@ -1283,7 +1283,7 @@
   "mail_sms.mail_result.button.retrieve": "照会",
   "mail_sms.mail_result.button.resend": "選択メール再発送",
   "mail_sms.mail_result.alert.resend.empty": "メールを再発送する受検者を選択してください。",
-  "mail_sms.mail_result.alert.resend.confirm": "選択した応募者にメールを再発送しますか？",
+  "mail_sms.mail_result.alert.resend.confirm": "選択した受検者にメールを再発送しますか？",
   "mail_sms.mail_result.alert.resend.success": "選択したメールを全て再発送しました。",
   "mail_sms.mail_result.alert.resend.fail": "メールの再発送に失敗しました。もう一度やり直してください。",
   "mail_sms.mail_result.label.send_count": "全{0}名",
