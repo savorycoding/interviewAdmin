@@ -339,7 +339,7 @@
   "regist.step5.mail.header": "案内メール",
   "regist.step5.mail.button.recommand_format": "定番書式を見る",
   "regist.step5.modal_recommand.header": "定番書式",
-  "regist.step5.modal_recommand.content[0]": "オンラインコンピテンシー検査に関するご案内を申し上げます。",
+  "regist.step5.modal_recommand.content[0]": "オンラインコンピテンシー検査に関するご案内申し上げます。",
   "regist.step5.modal_recommand.content[1]": "こんにちは。$성명$さん、$회사명$です。オンラインコンピテンシー検査が次のように行われます。<br>以下の内容を必ず理解し、受検に間違いないようお願いします。",
   "regist.step5.modal_recommand.content[2]": "検査日程案内",
   "regist.step5.modal_recommand.content[3]": "区分",
