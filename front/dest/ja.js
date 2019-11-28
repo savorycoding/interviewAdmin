@@ -429,7 +429,7 @@
   "regist.step5.sms.guide.mapping2": "マッピングをコピー&ペーストする場合、正常に動作しません。必ず上記の方法に従って入力してください。",
   "regist.step5.sms.header2": "SMS メッセージサービス",
   "regist.step5.sms.guide.mms": "80byte超過時MMSで送信されます。",
-  "regist.step5.sms.label.special_character": "特殊メッセージ",
+  "regist.step5.sms.label.special_character": "特殊文字",
   "regist.step5.sms.guide.empty": "内容を入力してください。<br>内容を入力しないと送信されません。",
   "regist.step5.sms.label.recommand": "定番書式",
   "regist.step5.sms.contents[0]": "[$会社名$オンライン面接実施案内 ]　以下のようにオンラインAI面接典型を実施する予定です。◆応試期間：＄応試期間＄　◆認証コード：＄認証コード＄オンライン面接に関する詳細内容は案内メールで必ず確認してください。ありがとうございます。",
