@@ -1454,7 +1454,7 @@
   "preferences.basic.modal_login.image.header": "ログイン画像ファイルの添付",
   "preferences.basic.modal_login.image.guide.file_extensions": "JPG, GIFまたは PNG形式のファイルをアップロードできます。お勧めのサイズは890 * 550です。<br>有名人の画像、ヌード画像、芸術画像または著作権でほごされている画像はアップロードできません。",
   "preferences.basic.modal_login.button.header": "画像選択完了",
-  "preferences.basic.submit": "変更事項保存",
+  "preferences.basic.submit": "保存",
   "preferences.basic.alert.empty_mail": "メールアドレスを確認してください。",
   "preferences.basic.alert.empty_phone": "電話番号を確認してください。",
   "preferences.basic.alert.empty_name": "担当者の名前を確認してください。",
