@@ -17,7 +17,7 @@
   "dashboard.th.count_reset": "接続回数超過",
   "dashboard.button.reset": "リセット",
   "dashboard.button.setting": "設定",
-  "dashboard.label.counting": "0名",
+  "dashboard.label.counting": "{0}명",
   "dashboard.label.active": "進行中",
   "dashboard.label.closed": "締め切り",
   "dashboard.label.empty": "２ヶ月以内に登録した検査がありません。",
