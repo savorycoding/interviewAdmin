@@ -649,7 +649,7 @@
   "result.guide.empty_exam": "照会する検査を選択してください。",
   "result.guide.empty_result": "登録されている結果がありません。",
   "result.th.name": "名前",
-  "result.label.status": "検査状況",
+  "result.label.status": "受検状況",
   "result.label.num_of_incomplete": "未受検",
   "result.label.not_take_exam": "未完了",
   "result.label.done": "完了",
