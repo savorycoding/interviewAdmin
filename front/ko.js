@@ -17,7 +17,7 @@ let langData = {
   "dashboard.th.count_reset": "접속횟수초과",
   "dashboard.button.reset": "초기화",
   "dashboard.button.setting": "설정",
-  "dashboard.label.counting": "0명",
+  "dashboard.label.counting": "{0}명",
   "dashboard.label.active": "진행중",
   "dashboard.label.closed": "마감",
   "dashboard.label.empty": "최근 2개월 이내에 등록한 전형이 없습니다.",
