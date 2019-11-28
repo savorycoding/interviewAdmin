@@ -1312,7 +1312,7 @@
   "mail_sms.mail_result.modal_detail.label.title": "件名",
   "mail_sms.mail_result.modal_detail.label.close": "閉じる",
   "mail_sms.mail_reservation.header": "メール管理",
-  "mail_sms.mail_reservation.header2": "メール発送の予約履歴",
+  "mail_sms.mail_reservation.header2": "メール送信の予約履歴",
   "mail_sms.mail_reservation.label.exam_name": "検査名",
   "mail_sms.mail_reservation.label.exam_purpose": "対象者",
   "mail_sms.mail_reservation.label.at": "受検者",
