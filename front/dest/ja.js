@@ -1443,7 +1443,7 @@
   "preferences.basic.label.company_email": "代表メール",
   "preferences.basic.label.company_phone": "代表電話番号",
   "preferences.basic.butto.management": "管理",
-  "preferences.basic.guide.company_phone": "情報通信網法の改訂及び法令施行により、SMS発信番号の事前登録制が施行されました。",
+  "preferences.basic.guide.company_phone": "情報通信網法の改訂及び法令施行により、SMS送信番号の事前登録制が施行されました。",
   "preferences.basic.header6": "ガイド＆支援センター",
   "preferences.basic.guide.company_info": "検査受検サイトのログインページに案内される担当者の情報です。",
   "preferences.basic.label.manager_name": "担当者の名前",
