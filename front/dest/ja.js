@@ -1461,7 +1461,7 @@
   "preferences.basic.alert.save": "保存されました。<br>変更内容の適用のために、ログアウトの後、再びログインしてください。",
   "preferences.basic.alert.confirm.remove": "現在の画像が削除されます。よろしいですか？",
   "preferences.sms.header8": "SMS送信番号管理 ",
-  "preferences.sms.guide.sms_registration": "発信番号事前登録制により、登録された発信番号でのみSMS発送が可能です。登録された番号の中、状態値が \"認証完了\"の番号のみSMS発送が可能です。",
+  "preferences.sms.guide.sms_registration": "送信番号事前登録制により、登録されている送信番号でのみ送信送信できます。<br>登録されている番号中、状態が \"認証完了\"である番号のみ送信できます。",
   "preferences.sms.button.partial_remove": "選択削除",
   "preferences.sms.alert.partial_remove.empty_phone": "番号を選択してください。",
   "preferences.sms.alert.partial_remove.confirm": "削除しますか？",
