@@ -1460,7 +1460,7 @@
   "preferences.basic.alert.empty_name": "担当者の名前を確認してください。",
   "preferences.basic.alert.save": "保存されました。<br>変更内容の適用のために、ログアウトの後、再びログインしてください。",
   "preferences.basic.alert.confirm.remove": "現在の画像が削除されます。よろしいですか？",
-  "preferences.sms.header8": "SMS発信番号管理 ",
+  "preferences.sms.header8": "SMS送信番号管理 ",
   "preferences.sms.guide.sms_registration": "発信番号事前登録制により、登録された発信番号でのみSMS発送が可能です。登録された番号の中、状態値が \"認証完了\"の番号のみSMS発送が可能です。",
   "preferences.sms.button.partial_remove": "選択削除",
   "preferences.sms.alert.partial_remove.empty_phone": "番号を選択してください。",
