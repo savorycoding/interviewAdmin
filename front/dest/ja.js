@@ -474,7 +474,7 @@
   "regist.step5.modal_confirm.button.send": "送信",
   "regist.step5.modal_confirm.button.cancel": "キャンセル",
   "regist.step5.modal_confirm.alert.confirm": "送信しますか？",
-  "regist.step5.modal_confirm.alert.maximum": "使用できるＳＭＳメッセージ件数を超過しました。購買担当者に問い合わせください。",
+  "regist.step5.modal_confirm.alert.maximum": "使用できるＳＭＳサービス件数を超過しました。購買担当者に問い合わせください。",
   "regist.step5.modal_confirm.alert.success": "保存しました。",
   "regist.step5.modal_confirm.alert.fail": "設定の保存に失敗しました。もう一度やり直してください。",
   "regist.step5.modal_confirm.alert.empty_sender": "代表メールアドレスが設定されていません。［設定］－［システム基本設定］で代表メールアドレスを設定した上、ご利用してください。",
