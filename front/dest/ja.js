@@ -434,7 +434,7 @@
   "regist.step5.sms.label.recommand": "定番書式",
   "regist.step5.sms.contents[0]": "[$会社名$オンライン面接実施案内 ]　以下のようにオンラインAI面接典型を実施する予定です。◆応試期間：＄応試期間＄　◆認証コード：＄認証コード＄オンライン面接に関する詳細内容は案内メールで必ず確認してください。ありがとうございます。",
   "regist.step5.sms.button.submit": "適用",
-  "regist.step5.sms.alert.activate": "ＳＭＳ設定が活性化されていません。案内ＳＭＳ発送可否を送るに設定した上で適用してください。",
+  "regist.step5.sms.alert.activate": "ＳＭＳ設定が活性化されていません。案内ＳＭＳ発送を送るに設定した上、適用してください。",
   "regist.step5.sms.button.preview": "プレビュー",
   "regist.step5.sms.button.testsend": "案内メールのテスト",
   "regist.step5.sms.guide.preview": "田中大樹（認証コード：12345678）応募者にメールを発送する場合、以下のように発送されます。",
