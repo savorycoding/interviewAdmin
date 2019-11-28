@@ -459,7 +459,7 @@
   "regist.step5.alert.invalid_time": "の送信時間は現在の時間より前に設定できません。",
   "regist.step5.modal_confirm.header": "案内メール送信確認",
   "regist.step5.modal_confirm.header2": "メール",
-  "regist.step5.modal_confirm.th.mail": "発信メール",
+  "regist.step5.modal_confirm.th.mail": "送信メール",
   "regist.step5.modal_confirm.label.mail_is_not_send": "送らない",
   "regist.step5.modal_confirm.label.mail_is_send": "送る",
   "regist.step5.modal_confirm.button.mail_preview": "ＳＭＳ",
