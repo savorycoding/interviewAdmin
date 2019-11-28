@@ -1507,7 +1507,7 @@
       "등록된 발신번호가 10개 이상일 경우, 사용 목적은 필수입니다. 사용 목적은 10글자 이상 작성되어야합니다.",
   "preferences.sms.modal_sms_registration.alert.need_confirm": "内容確認が必要です。",
   "preferences.sms.modal_sms_registration.alert.success": "番号が登録されました。",
-  "preferences.sms.modal_sms_registration.alert.empty_sms": "SMS発送番号管理から登録してください。",
+  "preferences.sms.modal_sms_registration.alert.empty_sms": "SMS送信番号管理で登録してください。",
   "preferences.sms.modal_sms_registration.alert.empty_number": "登録されている番号がありません。右上の番号登録が必要です。",
   "preferences.sms.label.status.auth_phone": "携帯認証",
   "preferences.sms.label.status.auth_ars": "ARS認証",
