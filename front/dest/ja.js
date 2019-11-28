@@ -450,7 +450,7 @@
   "regist.step5.modal_sms_testsend.alert.success": "案内SMSの送信を完了しました。",
   "regist.step5.button.prev": "戻る",
   "regist.step5.button.submit": "設定完了",
-  "regist.step5.alert.empty_mail_time": "配信時間を設定してください。",
+  "regist.step5.alert.empty_mail_time": "送信時間を設定してください。",
   "regist.step5.alert.empty_mail_sender": "送信者のメールアドレスと連絡先の設定が必要です。",
   "regist.step5.alert.empty_mail_title": "メールの件名を入力してください。",
   "regist.step5.alert.empty_contents": "メールの内容がありません。",
