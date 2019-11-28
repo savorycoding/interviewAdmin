@@ -1399,7 +1399,7 @@
   "mail_sms.sms_result.label.error24": "送信有効期限の経過",
   "mail_sms.sms_result.label.error25": "許可されていないサービス要請",
   "mail_sms.sms_result.label.error99": "client で送信しない",
-  "mail_sms.sms_result.alert.empty_sms": "該当検査に送信されたSMSがありません。",
+  "mail_sms.sms_result.alert.empty_sms": "該当の検査に送信されたSMSがありません。",
   "mail_sms.sms_result.modal_detail.header": "送信SMSの詳細を見る",
   "mail_sms.sms_result.modal_detail.header2": "SMS(Short Message Service)",
   "mail_sms.sms_result.modal_detail.guide.mms": "80byte超過時MMSで送信されます。",
