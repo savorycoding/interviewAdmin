@@ -439,7 +439,7 @@
   "regist.step5.sms.button.testsend": "案内メールのテスト",
   "regist.step5.sms.guide.preview": "田中大樹（認証コード：12345678）応募者にメールを発送する場合、以下のように発送されます。",
   "regist.step5.sms.header3": "SMS(Short Message Service)",
-  "regist.step5.modal_sms_testsend.header": "案内メールのテスト",
+  "regist.step5.modal_sms_testsend.header": "案内SMSのテスト",
   "regist.step5.modal_sms_testsend.th.adress": "宛先",
   "regist.step5.modal_sms_testsend.label.phone": "携帯電話番号（例：010-0000-0000）",
   "regist.step5.modal_sms_testsend.button.submit": "送信",
