@@ -1437,7 +1437,7 @@
   "preferences.basic.header": "環境設定",
   "preferences.basic.header2": "システム基本設定",
   "preferences.basic.header3": "基礎情報管理",
-  "preferences.basic.header4": "SMS送信番号管理",
+  "preferences.basic.header4": "SMS発信番号管理",
   "preferences.basic.header5": "代表連絡先",
   "preferences.basic.label.company_info": "メール送信の時、基本設定で活用されます。代表連絡先を変更した場合、変更内容の適用のために、ログアウトの後、再びログインしてください。",
   "preferences.basic.label.company_email": "代表メール",
