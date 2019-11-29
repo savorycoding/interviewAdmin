@@ -544,7 +544,7 @@
   "result.label.applicant": "受検者",
   "result.label.employee": "在職者",
   "result.label.progress": "進行事項",
-  "result.label.ready": "進行前",
+  "result.label.ready": "開始前",
   "result.label.in_progress": "進行中",
   "result.label.end": "締め切り",
   "result.label.empty_exam_name": "検査を選択してください。",
