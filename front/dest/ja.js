@@ -59,7 +59,7 @@
   "regist.step1.ai.guide.closing_remarks2": "終わりの言葉は3個まで登録できます。",
   "regist.step1.ai.line.closing_remarks": "これでオンライン面接は全て終了しました。",
   "regist.step1.ai.line.closing_remarks2": "長い時間割いていただき、誠にありがとうございます。良い結果を心よりお祈り申し上げます。",
-  "regist.step1.ai.th.external_link": "外部ページのリンク設定",
+  "regist.step1.ai.th.external_link": "外部リンク設定",
   "regist.step1.ai.guide.external_link": "※受検終了後、外部ページへの接続が必要な場合、設定してください。",
   "regist.step1.ai.guide.external_link2": "リンクのテキスト入力",
   "regist.step1.ai.guide.external_link3": "URL入力",
