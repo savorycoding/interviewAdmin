@@ -171,6 +171,7 @@
   "regist.step2.modal_modify.alert.done": "されました。",
   "regist.step2.label.examinee": "受検者",
   "regist.step2.modal_modify.alert.fail2": "に失敗しました。もう一度やり直してください。",
+  "regist.step2.label.singleJob_exam":"一般検査",
   "regist.step3.header": "AIコンピテンシー検査管理",
   "regist.step3.header2": "登録",
   "regist.step3.guide1": "基本質問、状況対処、深層会話、カスタマイズ質問の構成を確認できます。",
