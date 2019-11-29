@@ -432,7 +432,7 @@
   "regist.step5.sms.label.special_character": "特殊文字",
   "regist.step5.sms.guide.empty": "内容を入力してください。<br>内容を入力しないと送信されません。",
   "regist.step5.sms.label.recommand": "定番書式",
-  "regist.step5.sms.contents[0]": "[$会社名$オンライン面接実施案内 ]　以下のようにオンラインAI面接典型を実施する予定です。◆応試期間：＄応試期間＄　◆認証コード：＄認証コード＄オンライン面接に関する詳細内容は案内メールで必ず確認してください。ありがとうございます。",
+  "regist.step5.sms.contents[0]": "[$会社名$オンライン検査実施案内 ]　<br>以下のようにオンラインAIコンピテンシー検査を実施する予定です。<br><br>◆応試期間：＄応試期間＄　<br>◆認証コード：＄認証コード＄<br><br>オンライン検査に関する詳細内容は案内メールで必ず確認してください。<br><br>ありがとうございます。",
   "regist.step5.sms.button.submit": "適用",
   "regist.step5.sms.alert.activate": "SMS設定が活性化されていません。案内SMSを送るに設定した上、適用してください。",
   "regist.step5.sms.button.preview": "プレビュー",
