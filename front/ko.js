@@ -171,6 +171,7 @@ let langData = {
   "regist.step2.modal_modify.alert.done": "되었습니다.",
   "regist.step2.label.examinee": "응시자",
   "regist.step2.modal_modify.alert.fail2": "에 실패했습니다. 다시 시도해주시기 바랍니다.",
+  "regist.step2.label.singleJob_exam":"일반검사",
   "regist.step3.header": "AI면접 관리",
   "regist.step3.header2": "등록",
   "regist.step3.guide1": "기본질문, 상황대처, 심층대화, 맞춤질문 질문 구성을 확인할 수 있습니다.",
