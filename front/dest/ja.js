@@ -731,7 +731,7 @@
   "exam_result.guide.response_reliability": "信頼不可の場合、下のキーワードにマウスを当てて詳細内容を確認できます。",
   "exam_result.label.response_reliability.game": "AIゲーム",
   "exam_result.label.response_reliability.interview": "AI面コンピテンシー検査",
-  "exam_result.label.response_reliability.not_self_test": "代理受検の疑い",
+  "exam_result.label.response_reliability.not_self_test": "替え玉受検疑惑",
   "exam_result.label.response_reliability.abnormal_response_detect": "異常反応感知",
   "exam_result.label.response_reliability.job_group_fitness_title": "職種適合度",
   "exam_result.label.characteristics_summary.title": "受検者の特性要約",
