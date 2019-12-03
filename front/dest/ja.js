@@ -1471,7 +1471,7 @@
   "preferences.sms.button.alert.primary_contact.empty_phone": "番号を選択してください。",
   "preferences.sms.button.alert.primary_contact.maximum_phone": "番号を一つのみ選択してください。",
   "preferences.sms.button.contatct": "番号登録",
-  "preferences.sms.modal_sms_registration.header": "SMS発信番号追加",
+  "preferences.sms.modal_sms_registration.header": "SMS送信番号追加",
   "preferences.sms.modal_sms_registration.th.category": "種類",
   "preferences.sms.modal_sms_registration.label.landline": "有線電話",
   "preferences.sms.modal_sms_registration.label.mobile": "無線電話",
