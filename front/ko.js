@@ -241,7 +241,7 @@ let langData = {
   "regist.step3.modal_time.alert.fail_submit": "커스터마이징 질문설정이 완료되지 않았습니다",
   "regist.step3.modal_time.alert.submit": "설정을 저장하시겠습니까?",
   "regist.step3.modal_time.alert.success": "저장되었습니다.",
-  "regist.step3.alert.need_reset" : "이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br>해당 응시자를 '결과초기화'하신 후 진행해주세요.",
+  "regist.step3.alert.need_reset" : "이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.\n해당 응시자를 '결과초기화'하신 후 진행해주세요.",
   "regist.step4.header": "AI면접 관리",
   "regist.step4.header2": "등록",
   "regist.step4.result.header": "결과표 설정",
