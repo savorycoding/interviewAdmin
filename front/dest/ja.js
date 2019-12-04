@@ -241,7 +241,7 @@
   "regist.step3.modal_time.alert.fail_submit": "カスタマイズ質問設定が完了されていません。",
   "regist.step3.modal_time.alert.submit": "保存しますか?",
   "regist.step3.modal_time.alert.success": "保存されました。",
-  "regist.step3.alert.need_reset" : "이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.\n해당 응시자를 \'결과초기화\'하신 후 진행해주세요.",
+  "regist.step3.alert.need_reset" : "既に受検を開始しているか、質問に答えている受検者がいるため、設定の変更ができません。\n該当の受検者を「結果リセット」にした後、もう一度やり直してください。",
   "regist.step4.header": "AIコンピテンシー検査管理",
   "regist.step4.header2": "登録",
   "regist.step4.result.header": "結果表設定",
