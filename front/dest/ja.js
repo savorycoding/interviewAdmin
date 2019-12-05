@@ -1460,7 +1460,7 @@
   "preferences.basic.alert.empty_mail": "メールアドレスを確認してください。",
   "preferences.basic.alert.empty_phone": "電話番号を確認してください。",
   "preferences.basic.alert.empty_name": "担当者の名前を確認してください。",
-  "preferences.basic.alert.save": "保存されました。<br>変更内容の適用のために、ログアウトの後、再びログインしてください。",
+  "preferences.basic.alert.save": "保存されました。<br>変更事項の適用のために、ログアウトの後、再びログインしてください。",
   "preferences.basic.alert.confirm.remove": "現在の画像が削除されます。よろしいですか？",
   "preferences.sms.header8": "SMS送信番号管理 ",
   "preferences.sms.guide.sms_registration": "送信番号事前登録制により、登録されている送信番号でのみ送信できます。<br>登録されている番号中、状態が \"認証完了\"である番号のみ送信できます。",
