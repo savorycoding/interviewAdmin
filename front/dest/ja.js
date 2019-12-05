@@ -382,7 +382,7 @@
   "regist.step5.modal_recommand.template[20]": "内容のスクリーンショット、動画撮影などの行為は法的責任を問われる可能性があります。",
   "regist.step5.modal_recommand.button.submit": "適用",
   "regist.step5.modal_recommand.button.cancel": "キャンセル",
-  "regist.step5.modal_recommand.alert.submit": "定番書式を適用しますか？既存の設定された案内メール書式はリセットされます。",
+  "regist.step5.modal_recommand.alert.submit": "定番書式を適用しますか？<br>既存の設定された案内メール書式はリセットされます。",
   "regist.step5.mail.th.is_send": "送信可否",
   "regist.step5.mail.label.is_not_send": "送らない",
   "regist.step5.mail.label.is_send": "送る",
