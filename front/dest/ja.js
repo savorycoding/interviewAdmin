@@ -887,7 +887,7 @@
   "result.modal_status.th.step_datetime": "時間",
   "result.modal_status.label.start": "開始",
   "result.modal_status.label.done": "完了",
-  "result.modal_status.alert.no_log": "オンラインAIコンピテンシー検査の受検前です。<br>受検記録がありません。",
+  "result.modal_status.alert.no_log": "オンラインAIコンピテンシー検査の受検前です。<br><br>受検記録がありません。",
   "result.modal_status.button.close": "閉じる",
   "result.button.result_reset": "リセット",
   "result.alert.result_reset": "結果リセットは1回のみできます。該当の受検者は既に結果リセットを行いました。",
