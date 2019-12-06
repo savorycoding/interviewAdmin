@@ -1001,7 +1001,7 @@
   "customizing.step3.th.jobgroup": "職種",
   "customizing.step3.th.employee_jobgroup": "在職者グループ名",
   "customizing.step3.th.unclassified": "未分類",
-  "customizing.step3.th.tscore": "Ｔ点数<br>（ランク）",
+  "customizing.step3.th.tscore": "Ｔ点数（ランク）",
   "customizing.step3.th.evaluation": "成果評価",
   "customizing.step3.button.delete": "削除",
   "customizing.step3.alert.delete.empty": "選択された在職者がいません。",
