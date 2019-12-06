@@ -692,7 +692,7 @@
   "result.alert.empty_user": "選択された受検者がいません。",
   "result.th.high_perform_prediction": "高成果予測点数",
   "result.th.capacity_average": "全体平均点数",
-  "result.th.performance": "成果コンピテンシー",
+  "result.th.performance": "成果<br>コンピテンシー",
   "result.th.growth": "成長コンピテンシー",
   "result.th.observe_characteristic": "組織不適合",
   "result.th.reset_count": "結果リセット",
