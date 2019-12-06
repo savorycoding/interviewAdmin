@@ -14,7 +14,7 @@
   "dashboard.th.not_take_exam": "未受検",
   "dashboard.th.num_of_incomplete": "未完了",
   "dashboard.th.exceed": "完了率",
-  "dashboard.th.count_reset": "アクセス上限<br>超過",
+  "dashboard.th.count_reset": "アクセス上限超過",
   "dashboard.button.reset": "リセット",
   "dashboard.button.setting": "設定",
   "dashboard.label.counting": "名",
