@@ -693,7 +693,7 @@
   "result.th.high_perform_prediction": "高成果予測点数",
   "result.th.capacity_average": "全体平均点数",
   "result.th.performance": "成果<br>コンピテンシー",
-  "result.th.growth": "成長コンピテンシー",
+  "result.th.growth": "成長<br>コンピテンシー",
   "result.th.observe_characteristic": "組織不適合",
   "result.th.reset_count": "結果リセット",
   "result.th.reset_count_logs": "結果リセット<br>履歴",
