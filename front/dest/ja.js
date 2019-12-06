@@ -275,7 +275,7 @@
   "regist.step4.modal_display_yn.label.sector": "応募分野",
   "regist.step4.modal_display_yn.header3": "詳細設定項目",
   "regist.step4.modal_display_yn.label.recommand": "推薦度",
-  "regist.step4.modal_display_yn.label.high_perform_prediction": "高成果予測点数",
+  "regist.step4.modal_display_yn.label.high_perform_prediction": "高成果予測<br>点数",
   "regist.step4.modal_display_yn.label.total_avg": "全体平均点数",
   "regist.step4.modal_display_yn.label.rank": "等数",
   "regist.step4.modal_display_yn.label.total_histogram": "受検者点数分布",
