@@ -1140,7 +1140,7 @@
   "member_group.regist.th.birthday": "生年月日",
   "member_group.regist.th.jobgroup": "職種",
   "member_group.regist.th.reliability": "回答信頼性",
-  "member_group.regist.th.tscore": "Ｔ点数<br>（ランク）",
+  "member_group.regist.th.tscore": "Ｔ点数（ランク）",
   "member_group.regist.th.evaluation": "成果評価",
   "member_group.regist.th.entrance_date": "入社日",
   "member_group.regist.th.organization": "所属部署",
