@@ -694,7 +694,7 @@ let langData = {
   "result.th.capacity_average": "전체평균점수",
   "result.th.performance": "성과역량",
   "result.th.growth": "성장역량",
-  "result.th.observe_characteristic": "조직부적합",
+  "result.th.observe_characteristic": "관찰특성",
   "result.th.reset_count": "결과초기화",
   "result.th.reset_count_logs": "결과초기화<br>내역",
   "exam_result.header": "AI 면접 결과표",
